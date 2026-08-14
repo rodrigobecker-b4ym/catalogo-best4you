@@ -6,20 +6,21 @@
 
   var IMG_RE = /^[0-9a-f]{16}\.webp$/;
   var PLACEHOLDER = 'assets/placeholder.webp';
+  var POR_PRATELEIRA = 12;
 
-  var $grid = document.getElementById('grid');
-  var $busca = document.getElementById('busca');
-  var $categoria = document.getElementById('categoria');
-  var $limpar = document.getElementById('limpar');
-  var $limparVazio = document.getElementById('limpar-vazio');
-  var $contador = document.getElementById('contador');
-  var $vazio = document.getElementById('vazio');
-  var $erro = document.getElementById('erro');
-  var $carregando = document.getElementById('carregando');
-  var $atualizado = document.getElementById('atualizado');
+  var $ = function (id) { return document.getElementById(id); };
+  var $busca = $('busca'), $chips = $('chips'), $prateleiras = $('prateleiras');
+  var $visaoGrade = $('visao-grade'), $grade = $('grade'), $gradeTitulo = $('grade-titulo');
+  var $voltar = $('voltar'), $contador = $('contador'), $vazio = $('vazio');
+  var $erro = $('erro'), $carregando = $('carregando'), $atualizado = $('atualizado');
+  var $limparBusca = $('limpar-busca'), $limparTudo = $('limpar-tudo');
 
-  var produtos = [];        // [{nome, preco, categoria, nome_busca, img}]
-  var cards = [];           // elementos <div.card>, mesma ordem de `produtos`
+  var produtos = [];        // [{nome, preco, categoria, nome_busca, img, _busca}]
+  var categorias = [];      // ordem de aparição no JSON; "Outros" por último
+  var cardsGrade = [];      // um card por produto, anexado só quando visível
+  var chipsPorCat = {};     // categoria ('' = Todas) → botão chip
+  var estado = { busca: '', categoria: '' };
+  var debounceId = 0;
 
   /* Normaliza texto para busca: minúsculas, sem acentos, espaços colapsados. */
   function normalizar(s) {
@@ -37,7 +38,7 @@
     return n.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
   }
 
-  function criarCard(p) {
+  function criarCard(p, mostrarCategoria) {
     var card = document.createElement('div');
     card.className = 'card';
 
@@ -58,84 +59,199 @@
 
     var info = document.createElement('div');
     info.className = 'card-info';
-
-    var cat = document.createElement('p');
-    cat.className = 'card-categoria';
-    cat.textContent = p.categoria;
-
+    if (mostrarCategoria) {
+      var cat = document.createElement('p');
+      cat.className = 'card-categoria';
+      cat.textContent = p.categoria;
+      info.appendChild(cat);
+    }
     var nome = document.createElement('p');
     nome.className = 'card-nome';
     nome.textContent = p.nome;
-
     var preco = document.createElement('p');
     preco.className = 'card-preco';
     preco.textContent = formatarPreco(p.preco);
-
-    info.appendChild(cat);
     info.appendChild(nome);
     info.appendChild(preco);
+
     card.appendChild(foto);
     card.appendChild(info);
     return card;
   }
 
-  function montarCategorias() {
-    var vistas = Object.create(null);
-    var lista = [];
-    produtos.forEach(function (p) {
-      var c = String(p.categoria || '');
-      if (c && !vistas[c]) { vistas[c] = true; lista.push(c); }
+  /* ── Prateleiras (tela inicial) ─────────────────────────────────────────── */
+
+  function criarSeta(direcao, trilho) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'seta seta-' + (direcao > 0 ? 'next' : 'prev');
+    b.setAttribute('aria-label', direcao > 0 ? 'Avançar produtos' : 'Voltar produtos');
+    b.textContent = direcao > 0 ? '›' : '‹';
+    b.addEventListener('click', function () {
+      trilho.scrollBy({ left: direcao * trilho.clientWidth * 0.9, behavior: 'smooth' });
     });
-    lista.sort(function (a, b) {
-      if (a === 'Outros') return 1;
-      if (b === 'Outros') return -1;
-      return a.localeCompare(b, 'pt-BR');
+    return b;
+  }
+
+  function construirPrateleiras() {
+    var frag = document.createDocumentFragment();
+    categorias.forEach(function (cat) {
+      var itens = produtos.filter(function (p) { return p.categoria === cat; });
+
+      var secao = document.createElement('section');
+      secao.className = 'prateleira';
+
+      var cab = document.createElement('div');
+      cab.className = 'prateleira-cab';
+      var h2 = document.createElement('h2');
+      h2.textContent = cat;
+      var qtd = document.createElement('span');
+      qtd.className = 'qtd';
+      qtd.textContent = itens.length + (itens.length === 1 ? ' produto' : ' produtos');
+      var ver = document.createElement('button');
+      ver.type = 'button';
+      ver.className = 'ver-todos';
+      ver.textContent = 'Ver todos';
+      ver.setAttribute('aria-label', 'Ver todos os produtos de ' + cat);
+      ver.addEventListener('click', function () { irParaCategoria(cat); });
+      cab.appendChild(h2);
+      cab.appendChild(qtd);
+      cab.appendChild(ver);
+
+      var wrap = document.createElement('div');
+      wrap.className = 'trilho-wrap';
+      var trilho = document.createElement('div');
+      trilho.className = 'trilho';
+      trilho.tabIndex = 0;
+      trilho.setAttribute('role', 'list');
+      trilho.setAttribute('aria-label', 'Produtos de ' + cat + ' — role para o lado para ver mais');
+      itens.slice(0, POR_PRATELEIRA).forEach(function (p) {
+        var c = criarCard(p, false);
+        c.setAttribute('role', 'listitem');
+        trilho.appendChild(c);
+      });
+      wrap.appendChild(criarSeta(-1, trilho));
+      wrap.appendChild(trilho);
+      wrap.appendChild(criarSeta(1, trilho));
+
+      secao.appendChild(cab);
+      secao.appendChild(wrap);
+      frag.appendChild(secao);
     });
-    lista.forEach(function (c) {
-      var opt = document.createElement('option');
-      opt.value = c;
-      opt.textContent = c;
-      $categoria.appendChild(opt);
+    $prateleiras.appendChild(frag);
+  }
+
+  /* ── Chips de categoria ─────────────────────────────────────────────────── */
+
+  function construirChips() {
+    var lista = [''].concat(categorias); // '' = Todas
+    lista.forEach(function (cat) {
+      var chip = document.createElement('button');
+      chip.type = 'button';
+      chip.className = 'chip';
+      chip.textContent = cat === '' ? 'Todas' : cat;
+      chip.setAttribute('aria-pressed', cat === estado.categoria ? 'true' : 'false');
+      chip.addEventListener('click', function () {
+        if (cat === '') { irParaInicio(); } else { irParaCategoria(cat); }
+      });
+      chipsPorCat[cat] = chip;
+      $chips.appendChild(chip);
     });
   }
 
-  function aplicarFiltros() {
-    var q = normalizar($busca.value);
-    var cat = $categoria.value;
-    var visiveis = 0;
-
-    produtos.forEach(function (p, i) {
-      var ok = true;
-      if (cat && p.categoria !== cat) ok = false;
-      if (ok && q && p._busca.indexOf(q) === -1) ok = false;
-      cards[i].hidden = !ok;
-      if (ok) visiveis++;
+  function atualizarChips() {
+    Object.keys(chipsPorCat).forEach(function (cat) {
+      var ativo = cat === estado.categoria;
+      chipsPorCat[cat].setAttribute('aria-pressed', ativo ? 'true' : 'false');
+      if (ativo) {
+        chipsPorCat[cat].scrollIntoView({ inline: 'nearest', block: 'nearest' });
+      }
     });
-
-    var filtrando = !!(q || cat);
-    $limpar.hidden = !filtrando;
-    if (filtrando) {
-      $contador.textContent = visiveis + ' de ' + produtos.length + ' produtos';
-    } else {
-      $contador.textContent = produtos.length + ' produtos';
-    }
-    $vazio.hidden = visiveis !== 0;
-    $grid.hidden = visiveis === 0;
   }
 
-  function limparFiltros() {
+  /* ── Navegação (hash → botão voltar do navegador funciona) ──────────────── */
+
+  function irParaCategoria(cat) {
+    if (estado.categoria === cat) { render(); return; }
+    location.hash = 'c=' + encodeURIComponent(cat);
+  }
+
+  function irParaInicio() {
+    estado.busca = '';
     $busca.value = '';
-    $categoria.value = '';
-    aplicarFiltros();
-    $busca.focus();
+    if (location.hash && location.hash !== '#') {
+      location.hash = '';           // dispara hashchange → render
+    } else {
+      estado.categoria = '';
+      render();
+    }
   }
+
+  function aplicarHash() {
+    var h = location.hash.replace(/^#/, '');
+    var cat = '';
+    if (h.indexOf('c=') === 0) {
+      try { cat = decodeURIComponent(h.slice(2)); } catch (e) { cat = ''; }
+      if (categorias.indexOf(cat) === -1) cat = '';
+    }
+    estado.categoria = cat;
+    render();
+  }
+
+  /* ── Renderização ───────────────────────────────────────────────────────── */
+
+  function render() {
+    var q = normalizar(estado.busca);
+    var cat = estado.categoria;
+    var inicio = !q && !cat;
+
+    atualizarChips();
+    $limparBusca.hidden = $busca.value === '';
+
+    if (inicio) {
+      $prateleiras.hidden = false;
+      $visaoGrade.hidden = true;
+      return;
+    }
+
+    $prateleiras.hidden = true;
+    $visaoGrade.hidden = false;
+
+    var universo = cat
+      ? produtos.filter(function (p) { return p.categoria === cat; })
+      : produtos;
+    var visiveis = q
+      ? universo.filter(function (p) { return p._busca.indexOf(q) !== -1; })
+      : universo;
+
+    // anexa somente os resultados (cards pré-criados, um por produto)
+    var frag = document.createDocumentFragment();
+    visiveis.forEach(function (p) { frag.appendChild(cardsGrade[p._i]); });
+    $grade.replaceChildren(frag);
+
+    // categoria pequena no card apenas na busca global (via CSS)
+    $grade.classList.toggle('mostra-categoria', !cat);
+
+    $gradeTitulo.textContent = cat || 'Resultados da busca';
+    if (q && cat) {
+      $contador.textContent = visiveis.length + ' de ' + universo.length + ' em ' + cat;
+    } else if (cat) {
+      $contador.textContent = universo.length + (universo.length === 1 ? ' produto' : ' produtos');
+    } else {
+      $contador.textContent = visiveis.length + (visiveis.length === 1 ? ' produto encontrado' : ' produtos encontrados');
+    }
+    $vazio.hidden = visiveis.length !== 0;
+    $grade.hidden = visiveis.length === 0;
+  }
+
+  /* ── Inicialização ──────────────────────────────────────────────────────── */
 
   function mostrarAtualizacao(iso) {
     var d = new Date(iso);
     if (isNaN(d.getTime())) return;
-    var data = d.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' });
-    var hora = d.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-    $atualizado.textContent = 'Atualizado em ' + data + ' às ' + hora;
+    $atualizado.textContent = 'Atualizado em ' +
+      d.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' }) +
+      ' às ' + d.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
   }
 
   function iniciar(dados) {
@@ -143,10 +259,17 @@
     produtos = lista.filter(function (p) {
       return p && typeof p.nome === 'string' && isFinite(Number(p.preco));
     });
-    produtos.forEach(function (p) {
+
+    var vistas = Object.create(null);
+    produtos.forEach(function (p, i) {
+      p._i = i;
       p._busca = normalizar(typeof p.nome_busca === 'string' ? p.nome_busca : p.nome);
       if (typeof p.categoria !== 'string' || !p.categoria.trim()) p.categoria = 'Outros';
+      if (!vistas[p.categoria]) { vistas[p.categoria] = true; categorias.push(p.categoria); }
     });
+    // "Outros" sempre por último
+    var iOutros = categorias.indexOf('Outros');
+    if (iOutros !== -1) { categorias.splice(iOutros, 1); categorias.push('Outros'); }
 
     if (dados && dados.gerado_em) mostrarAtualizacao(dados.gerado_em);
 
@@ -156,30 +279,36 @@
       return;
     }
 
-    var frag = document.createDocumentFragment();
-    cards = produtos.map(function (p) {
-      var el = criarCard(p);
-      frag.appendChild(el);
-      return el;
-    });
-    $grid.appendChild(frag);
-
-    montarCategorias();
+    cardsGrade = produtos.map(function (p) { return criarCard(p, true); });
+    construirChips();
+    construirPrateleiras();
     $carregando.hidden = true;
-    $grid.hidden = false;
-    aplicarFiltros();
+    aplicarHash();
   }
 
   function falhar() {
     $carregando.hidden = true;
-    $grid.hidden = true;
+    $prateleiras.hidden = true;
+    $visaoGrade.hidden = true;
     $erro.hidden = false;
   }
 
-  $busca.addEventListener('input', aplicarFiltros);
-  $categoria.addEventListener('change', aplicarFiltros);
-  $limpar.addEventListener('click', limparFiltros);
-  $limparVazio.addEventListener('click', limparFiltros);
+  $busca.addEventListener('input', function () {
+    clearTimeout(debounceId);
+    debounceId = setTimeout(function () {
+      estado.busca = $busca.value;
+      render();
+    }, 120);
+  });
+  $limparBusca.addEventListener('click', function () {
+    $busca.value = '';
+    estado.busca = '';
+    render();
+    $busca.focus();
+  });
+  $limparTudo.addEventListener('click', irParaInicio);
+  $voltar.addEventListener('click', irParaInicio);
+  window.addEventListener('hashchange', aplicarHash);
 
   fetch('products.json', { cache: 'no-cache' })
     .then(function (r) {
