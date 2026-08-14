@@ -1,0 +1,3485 @@
+{
+ "gerado_em": "2026-08-14T03:50:47-03:00",
+ "escopo_preco": "global",
+ "produtos": [
+  {
+   "nome": "CARVAO 3KG",
+   "preco": 21.8,
+   "categoria": "Bazar",
+   "nome_busca": "carvao 3kg",
+   "img": null
+  },
+  {
+   "nome": "CAIXA DE FOSFOROS 100 UN.",
+   "preco": 2.49,
+   "categoria": "Bazar",
+   "nome_busca": "caixa de fosforos 100 un.",
+   "img": "69e3b507fd96aa4a.webp"
+  },
+  {
+   "nome": "ISQUEIRO",
+   "preco": 5.99,
+   "categoria": "Bazar",
+   "nome_busca": "isqueiro",
+   "img": "ed358043bc432748.webp"
+  },
+  {
+   "nome": "PALITO DE DENTE 80 UN.",
+   "preco": 1.99,
+   "categoria": "Bazar",
+   "nome_busca": "palito de dente 80 un.",
+   "img": "9c05a2bd66db7326.webp"
+  },
+  {
+   "nome": "COPO DESCARTAVEL 100 UN.",
+   "preco": 9.99,
+   "categoria": "Bazar",
+   "nome_busca": "copo descartavel 100 un.",
+   "img": "aa3ab7cce85493d4.webp"
+  },
+  {
+   "nome": "FOLHA DE PAPEL ALUMÍNIO",
+   "preco": 5.49,
+   "categoria": "Bazar",
+   "nome_busca": "folha de papel aluminio",
+   "img": "d48c7839bc63f688.webp"
+  },
+  {
+   "nome": "PAPEL FILME",
+   "preco": 5.99,
+   "categoria": "Bazar",
+   "nome_busca": "papel filme",
+   "img": "bb276adc9bb18177.webp"
+  },
+  {
+   "nome": "FOLHA DE PAPEL MANTEIGA",
+   "preco": 8.99,
+   "categoria": "Bazar",
+   "nome_busca": "folha de papel manteiga",
+   "img": "4748928c168c51cc.webp"
+  },
+  {
+   "nome": "PILHA AA 4 UN. (NORMAL)",
+   "preco": 11.9,
+   "categoria": "Bazar",
+   "nome_busca": "pilha aa 4 un. (normal)",
+   "img": "de4363cbbe865138.webp"
+  },
+  {
+   "nome": "PILHA FIAT LUX (NORMAL) (AA) (2UN.)",
+   "preco": 3.49,
+   "categoria": "Bazar",
+   "nome_busca": "pilha fiat lux (normal) (aa) (2un.)",
+   "img": "1e76893401c6fbd9.webp"
+  },
+  {
+   "nome": "PILHA FIAT LUX ALCALINA (NORMAL) (AA) (2UN.)",
+   "preco": 5.49,
+   "categoria": "Bazar",
+   "nome_busca": "pilha fiat lux alcalina (normal) (aa) (2un.)",
+   "img": "5846824b96cf55fa.webp"
+  },
+  {
+   "nome": "PILHA AAA 2 UN. (PALITO)",
+   "preco": 5.38,
+   "categoria": "Bazar",
+   "nome_busca": "pilha aaa 2 un. (palito)",
+   "img": "f33da1a21fe5dfa6.webp"
+  },
+  {
+   "nome": "PILHA FIAT LUX ALCALINA (PALITO) (AAA)",
+   "preco": 5.49,
+   "categoria": "Bazar",
+   "nome_busca": "pilha fiat lux alcalina (palito) (aaa)",
+   "img": "f3b8657f5e417907.webp"
+  },
+  {
+   "nome": "COLA SUPER BONDER",
+   "preco": 12.9,
+   "categoria": "Bazar",
+   "nome_busca": "cola super bonder",
+   "img": null
+  },
+  {
+   "nome": "VINHO JOTA PÊ B. SECO 750ML",
+   "preco": 23.9,
+   "categoria": "Vinho",
+   "nome_busca": "vinho jota pe b. seco 750ml",
+   "img": "10517384b2b493b7.webp"
+  },
+  {
+   "nome": "VINHO JOTA PÊ B. SUAVE 750ML",
+   "preco": 23.9,
+   "categoria": "Vinho",
+   "nome_busca": "vinho jota pe b. suave 750ml",
+   "img": "152278f1cbc98622.webp"
+  },
+  {
+   "nome": "VINHO JOTA PÊ T. SECO 750ML",
+   "preco": 23.9,
+   "categoria": "Vinho",
+   "nome_busca": "vinho jota pe t. seco 750ml",
+   "img": "b8e82cf5a39bc6f1.webp"
+  },
+  {
+   "nome": "VINHO JOTA PÊ T. SUAVE 750ML",
+   "preco": 23.9,
+   "categoria": "Vinho",
+   "nome_busca": "vinho jota pe t. suave 750ml",
+   "img": "80510ade8dc7d3e9.webp"
+  },
+  {
+   "nome": "VINHO MARCUS JAMES CABERNET SAUVIGNON 750ML",
+   "preco": 28.99,
+   "categoria": "Vinho",
+   "nome_busca": "vinho marcus james cabernet sauvignon 750ml",
+   "img": null
+  },
+  {
+   "nome": "VINHO MARCUS JAMES TANNAT 750ML",
+   "preco": 28.99,
+   "categoria": "Vinho",
+   "nome_busca": "vinho marcus james tannat 750ml",
+   "img": "4aadf430fb4cb4a7.webp"
+  },
+  {
+   "nome": "VINHO MARCUS JAMES ROSE 750ML",
+   "preco": 32.99,
+   "categoria": "Vinho",
+   "nome_busca": "vinho marcus james rose 750ml",
+   "img": "887bedf0e8e3b082.webp"
+  },
+  {
+   "nome": "CIGARRO DUNHILL CARLTON BLEND",
+   "preco": 18.99,
+   "categoria": "Cigarro",
+   "nome_busca": "cigarro dunhill carlton blend",
+   "img": "4c0ae5956ef74ed9.webp"
+  },
+  {
+   "nome": "CIGARRO DUNHILL DOUBLE REFRESH",
+   "preco": 20.99,
+   "categoria": "Cigarro",
+   "nome_busca": "cigarro dunhill double refresh",
+   "img": "709f92a493f6f25d.webp"
+  },
+  {
+   "nome": "CIGARRO L&M FIRST CUT",
+   "preco": 11.49,
+   "categoria": "Cigarro",
+   "nome_busca": "cigarro l&m first cut",
+   "img": "e376cd30ae754095.webp"
+  },
+  {
+   "nome": "CIGARRO LUCK STRIKE FRESH DOUBLE ICE",
+   "preco": 15.99,
+   "categoria": "Cigarro",
+   "nome_busca": "cigarro luck strike fresh double ice",
+   "img": "c308efdfac7d3600.webp"
+  },
+  {
+   "nome": "CIGARRO LUCK STRIKE MINT X",
+   "preco": 15.99,
+   "categoria": "Cigarro",
+   "nome_busca": "cigarro luck strike mint x",
+   "img": "1a295a146234d3ec.webp"
+  },
+  {
+   "nome": "CIGARRO CHESTERFIELD ORIG AZUL CR",
+   "preco": 13.99,
+   "categoria": "Cigarro",
+   "nome_busca": "cigarro chesterfield orig azul cr",
+   "img": null
+  },
+  {
+   "nome": "CERVEJA AMSTEL LATAO 473ML",
+   "preco": 8.49,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja amstel latao 473ml",
+   "img": "9a83cfdf1426dea0.webp"
+  },
+  {
+   "nome": "CERVEJA AMSTEL ULTRA LONG NECK 275ML",
+   "preco": 8.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja amstel ultra long neck 275ml",
+   "img": "c8c045954e22dd86.webp"
+  },
+  {
+   "nome": "CERVEJA BRAHMA CHOOPP LATAO 473ML",
+   "preco": 7.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja brahma choopp latao 473ml",
+   "img": "7571ff79e255c3c1.webp"
+  },
+  {
+   "nome": "CERVEJA BRAHMA DUPLO MALTE LATAO 473ML",
+   "preco": 8.49,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja brahma duplo malte latao 473ml",
+   "img": "d577ad233bd4282b.webp"
+  },
+  {
+   "nome": "CERVEJA BUDWEISER LATAO 473ML",
+   "preco": 8.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja budweiser latao 473ml",
+   "img": "50110bf2176af69a.webp"
+  },
+  {
+   "nome": "CERVEJA BUDWEISER LONG NECK 330ML",
+   "preco": 8.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja budweiser long neck 330ml",
+   "img": "86513bef77199aef.webp"
+  },
+  {
+   "nome": "CERVEJA CORONA LONG NECK 330ML",
+   "preco": 11.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja corona long neck 330ml",
+   "img": "139839b9065fa02e.webp"
+  },
+  {
+   "nome": "CERVEJA HEINEKEN LONG NECK 330ML",
+   "preco": 10.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja heineken long neck 330ml",
+   "img": "b6c26b53ffcd51de.webp"
+  },
+  {
+   "nome": "CERVEJA ORIGINAL LATAO 473ML",
+   "preco": 9.49,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja original latao 473ml",
+   "img": "5738f249074d8cb9.webp"
+  },
+  {
+   "nome": "CERVEJA POLAR LATAO 473ML",
+   "preco": 7.49,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja polar latao 473ml",
+   "img": "8e248049f214b629.webp"
+  },
+  {
+   "nome": "CERVEJA PROIBIDA 473ML",
+   "preco": 4.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja proibida 473ml",
+   "img": null
+  },
+  {
+   "nome": "CERVEJA SCHIN LATAO 473ML",
+   "preco": 5.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja schin latao 473ml",
+   "img": "c3652058cbf70098.webp"
+  },
+  {
+   "nome": "CERVEJA SOL LONG NECK 330ML",
+   "preco": 10.49,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja sol long neck 330ml",
+   "img": "adb0ca204997f842.webp"
+  },
+  {
+   "nome": "CERVEJA SPATEN LATAO 473ML",
+   "preco": 7.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja spaten latao 473ml",
+   "img": "c773d103ac42a27d.webp"
+  },
+  {
+   "nome": "CERVEJA SPATEN LONG NECK 330ML",
+   "preco": 9.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja spaten long neck 330ml",
+   "img": "6d39a474a244cabb.webp"
+  },
+  {
+   "nome": "CERVEJA STELLA ARTOIS LONG NECK 330ML",
+   "preco": 10.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja stella artois long neck 330ml",
+   "img": "347b96d0c9ef2dc5.webp"
+  },
+  {
+   "nome": "CERVEJA CORONA CERO LONG NECK SEM ÁLCOOL 330ML",
+   "preco": 11.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja corona cero long neck sem alcool 330ml",
+   "img": "0a9693d18f098999.webp"
+  },
+  {
+   "nome": "CERVEJA HEINEKEN LONG NECK SEM ÁLCOOL 330ML",
+   "preco": 10.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "cerveja heineken long neck sem alcool 330ml",
+   "img": "8407d3bb1364449f.webp"
+  },
+  {
+   "nome": "SKOL BEATS LONG NECK 269 ML",
+   "preco": 11.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "skol beats long neck 269 ml",
+   "img": "7a121e8d764698df.webp"
+  },
+  {
+   "nome": "SMIRNOFF ICE ORIGINAL 275ML",
+   "preco": 11.99,
+   "categoria": "Bebidas Alcoolicas",
+   "nome_busca": "smirnoff ice original 275ml",
+   "img": "09550713c8bbeaef.webp"
+  },
+  {
+   "nome": "AGUA SEM GAS 1.5L",
+   "preco": 4.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "agua sem gas 1.5l",
+   "img": "6e7e2d0fca2cba92.webp"
+  },
+  {
+   "nome": "AGUA SEM GAS 500ML",
+   "preco": 3.29,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "agua sem gas 500ml",
+   "img": null
+  },
+  {
+   "nome": "AGUA COM GAS 1.5L",
+   "preco": 5.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "agua com gas 1.5l",
+   "img": "252ca92d82945379.webp"
+  },
+  {
+   "nome": "AGUA COM GAS 500ML",
+   "preco": 3.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "agua com gas 500ml",
+   "img": null
+  },
+  {
+   "nome": "ENERGETICO BALY TRADICIONAL 2L",
+   "preco": 15.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "energetico baly tradicional 2l",
+   "img": "747fa1bbf6af4342.webp"
+  },
+  {
+   "nome": "ENERGÉTICO RED BULL 250ML",
+   "preco": 12.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "energetico red bull 250ml",
+   "img": "067958cbca8cdb33.webp"
+  },
+  {
+   "nome": "ENERGÉTICO RED BULL ZERO AÇÚCAR 250ML",
+   "preco": 12.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "energetico red bull zero acucar 250ml",
+   "img": "98d26c5a4fa99937.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER ABSOLUTELY ZERO LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster absolutely zero latao 473ml",
+   "img": "b0e76f9d13947d46.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER ZERO SUGAR LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster zero sugar latao 473ml",
+   "img": "2ba41c1667851299.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER ENERGY LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster energy latao 473ml",
+   "img": "f613f253dc98d568.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER ENERGY ULTRA FIESTA MANGO LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster energy ultra fiesta mango latao 473ml",
+   "img": "3fee77b97481ece6.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER KHOTIC TROPICAL ORANGE LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster khotic tropical orange latao 473ml",
+   "img": "6302b8402d484eab.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER MANGO LOCO LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster mango loco latao 473ml",
+   "img": "c588a95812a90580.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER PIPELINE PUNCH LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster pipeline punch latao 473ml",
+   "img": "e969dcb637de6be1.webp"
+  },
+  {
+   "nome": "ENERGETICO MONSTER MELANCIA LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "energetico monster melancia latao 473ml",
+   "img": "f0432c0a6fd8b6ef.webp"
+  },
+  {
+   "nome": "GUARANA FRUKI GARRAFA 1.5L",
+   "preco": 8.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "guarana fruki garrafa 1.5l",
+   "img": "04f34b4104cf9f66.webp"
+  },
+  {
+   "nome": "GUARANA FRUKI GARRAFA 2L",
+   "preco": 10.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "guarana fruki garrafa 2l",
+   "img": "dc467d1e35b27a55.webp"
+  },
+  {
+   "nome": "GUARANA FRUKI GARRAFA ZERO 1.5L",
+   "preco": 8.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "guarana fruki garrafa zero 1.5l",
+   "img": "9a685e743b4f2510.webp"
+  },
+  {
+   "nome": "GUARANA FRUKI ZERO GARRAFA 2L",
+   "preco": 10.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "guarana fruki zero garrafa 2l",
+   "img": "9ca7295bef712985.webp"
+  },
+  {
+   "nome": "REFRIGERANTE COCA COLA 2L",
+   "preco": 14.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante coca cola 2l",
+   "img": "bfe00897f675b570.webp"
+  },
+  {
+   "nome": "REFRIGERANTE COCA COLA ZERO 2L",
+   "preco": 14.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante coca cola zero 2l",
+   "img": "bf390d07b0470ad2.webp"
+  },
+  {
+   "nome": "REFRIGERANTE PEPSI 2L",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante pepsi 2l",
+   "img": "609fea73db44ab4c.webp"
+  },
+  {
+   "nome": "REFRIGERANTE PEPSI BLACK 2L",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante pepsi black 2l",
+   "img": "0d159c35a52b8ff8.webp"
+  },
+  {
+   "nome": "REFRIGERANTE SPRITE 2L",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante sprite 2l",
+   "img": "47a745ed856a4698.webp"
+  },
+  {
+   "nome": "REFRIGERANTE SPRITE ZERO 2L",
+   "preco": 14.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante sprite zero 2l",
+   "img": "5e1393b25f206ff9.webp"
+  },
+  {
+   "nome": "REFRIGERANTE COCA COLA LATA 350ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante coca cola lata 350ml",
+   "img": "bcfbe85abe6e0267.webp"
+  },
+  {
+   "nome": "REFRIGERANTE COCA COLA ZERO LATA 350ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante coca cola zero lata 350ml",
+   "img": "848df94fe730d28c.webp"
+  },
+  {
+   "nome": "REFRIGERANTE PEPSI BLACK 350ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante pepsi black 350ml",
+   "img": "7304682467b307b3.webp"
+  },
+  {
+   "nome": "REFRIGERANTE PEPSI LATA 350ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante pepsi lata 350ml",
+   "img": "839791e16ee6a0c8.webp"
+  },
+  {
+   "nome": "REFRIGERANTE SPRITE LATA 350ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante sprite lata 350ml",
+   "img": "af12dac44d51caf1.webp"
+  },
+  {
+   "nome": "REFRIGERANTE SPRITE ZERO LATA 350ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "refrigerante sprite zero lata 350ml",
+   "img": "cd3a97deb8c70fc8.webp"
+  },
+  {
+   "nome": "SUCO DE UVA MAGUARY 1L",
+   "preco": 9.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco de uva maguary 1l",
+   "img": "fffaed81f7566279.webp"
+  },
+  {
+   "nome": "SUCO MAGUARY MORANGO 1L",
+   "preco": 10.49,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco maguary morango 1l",
+   "img": "72fb1a8012c477b9.webp"
+  },
+  {
+   "nome": "SUCO DEL VALLE PESSEGO 1L",
+   "preco": 12.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco del valle pessego 1l",
+   "img": "8d0e121f021aba46.webp"
+  },
+  {
+   "nome": "SUCO DEL VALLE GOIABA 290ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco del valle goiaba 290ml",
+   "img": "3fdd0b058d173fc6.webp"
+  },
+  {
+   "nome": "SUCO DEL VALLE MANGA 290ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco del valle manga 290ml",
+   "img": "98f71ae931bda7e0.webp"
+  },
+  {
+   "nome": "SUCO DEL VALLE MARACUJA 290ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco del valle maracuja 290ml",
+   "img": "3280f9166c5eef6f.webp"
+  },
+  {
+   "nome": "SUCO DEL VALLE PESSEGO 290ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco del valle pessego 290ml",
+   "img": "61c742d3c4dafb7f.webp"
+  },
+  {
+   "nome": "SUCO DEL VALLE UVA 290ML",
+   "preco": 5.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco del valle uva 290ml",
+   "img": "15ae399ce6909e9c.webp"
+  },
+  {
+   "nome": "SUCO KAPO LARANJA 200ML",
+   "preco": 3.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco kapo laranja 200ml",
+   "img": "a7a563ef7618de21.webp"
+  },
+  {
+   "nome": "SUCO KAPO UVA 200ML",
+   "preco": 3.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco kapo uva 200ml",
+   "img": "50505f740628fdaf.webp"
+  },
+  {
+   "nome": "SUCO KAPO MORANGO 200ML",
+   "preco": 3.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "suco kapo morango 200ml",
+   "img": "747dd9194e979f0d.webp"
+  },
+  {
+   "nome": "BEBIDA PIRAKIDS CHOCOLATE 200ML",
+   "preco": 2.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida pirakids chocolate 200ml",
+   "img": "2c2757dbecb1d9fc.webp"
+  },
+  {
+   "nome": "BEBIDA TODDYINHO 200ML",
+   "preco": 4.89,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida toddyinho 200ml",
+   "img": "7debcc164550887e.webp"
+  },
+  {
+   "nome": "BALA HALLS CEREJA 28G",
+   "preco": 2.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "bala halls cereja 28g",
+   "img": "ec4a43f44cecb4c9.webp"
+  },
+  {
+   "nome": "BALA HALLS EXTRA FORTE 28G",
+   "preco": 2.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "bala halls extra forte 28g",
+   "img": "297812c5b8da6163.webp"
+  },
+  {
+   "nome": "BALA HALLS MELANCÍA 28G",
+   "preco": 2.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "bala halls melancia 28g",
+   "img": "756b0e3695fb5c3b.webp"
+  },
+  {
+   "nome": "BALA HALLS MENTA 28G",
+   "preco": 2.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "bala halls menta 28g",
+   "img": "40ba938516084c56.webp"
+  },
+  {
+   "nome": "BALA HALLS MORANGO 28G",
+   "preco": 2.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "bala halls morango 28g",
+   "img": "e6bad316bf657095.webp"
+  },
+  {
+   "nome": "BALA HALLS UVA VERDE 28G",
+   "preco": 2.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "bala halls uva verde 28g",
+   "img": "1fd1b6e16122deea.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT CANELA 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident canela 8g",
+   "img": "114e2a04f10c6446.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT HORTELÃ 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident hortela 8g",
+   "img": "3992bdb7db4c2b32.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT MELANCIA 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident melancia 8g",
+   "img": "7f7db2b0e41e545e.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT MENTA 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident menta 8g",
+   "img": "74c6d22feab200fd.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT MORANGO 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident morango 8g",
+   "img": "e9d003a97a0d0fc1.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT TUTTI FRUTTI 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident tutti frutti 8g",
+   "img": "c4ebeb8b43c3a1c7.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT X SENSES ACID BLUEBERRY",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident x senses acid blueberry",
+   "img": "e100dffa85743559.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT XSENSES HERBAL 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident xsenses herbal 8g",
+   "img": "51dfdca7f6a35d9a.webp"
+  },
+  {
+   "nome": "CHICLETE TRIDENT XSENSES INTENSE 8G",
+   "preco": 3.49,
+   "categoria": "Bala / Chiclete",
+   "nome_busca": "chiclete trident xsenses intense 8g",
+   "img": "4def913134a46d13.webp"
+  },
+  {
+   "nome": "BALA FINI MINI AMORA 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini amora 15g",
+   "img": "ec03fbf3a8eaadea.webp"
+  },
+  {
+   "nome": "BALA FINI MINI BANANA 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini banana 15g",
+   "img": "1e7509beeafcbcb2.webp"
+  },
+  {
+   "nome": "BALA FINI MINI BEIJOS DE MORANGO 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini beijos de morango 15g",
+   "img": "aa2d42eaa3f28c38.webp"
+  },
+  {
+   "nome": "BALA FINI MINI DENTADURAS 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini dentaduras 15g",
+   "img": "382e670932835c98.webp"
+  },
+  {
+   "nome": "BALA FINI MINI MINHOCAS 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini minhocas 15g",
+   "img": "48991f0df4fbd70f.webp"
+  },
+  {
+   "nome": "BALA FINI MINI MINHOCAS CITRICAS 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini minhocas citricas 15g",
+   "img": "3e15de37c24ec740.webp"
+  },
+  {
+   "nome": "BALA FINI MINI TUBES MORANGO 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini tubes morango 15g",
+   "img": "cdde523be9014270.webp"
+  },
+  {
+   "nome": "BALA FINI MINI TUBES MORANGO AZEDINHO 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini tubes morango azedinho 15g",
+   "img": "a7a43856a99db951.webp"
+  },
+  {
+   "nome": "BALA FINI MINI TUBES TUTTI FRUTTI AZEDINHO 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini tubes tutti frutti azedinho 15g",
+   "img": "448800678b0525d8.webp"
+  },
+  {
+   "nome": "BALA FINI MINI URSINHOS 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini ursinhos 15g",
+   "img": "36c785650c42404c.webp"
+  },
+  {
+   "nome": "BALA FINI AMORAS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini amoras 80g",
+   "img": "bd1346e557bf6c73.webp"
+  },
+  {
+   "nome": "BALA FINI AROS DE MORANGO AZEDINHOS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini aros de morango azedinhos 80g",
+   "img": "d7f61710bc332968.webp"
+  },
+  {
+   "nome": "BALA FINI BANANAS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini bananas 80g",
+   "img": "7f09e34ab233161c.webp"
+  },
+  {
+   "nome": "BALA FINI BEIJOS DE MORANGO 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini beijos de morango 80g",
+   "img": "e80f4ba4a1fae0c6.webp"
+  },
+  {
+   "nome": "BALA FINI DENTADURAS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini dentaduras 80g",
+   "img": "d109e22047571a12.webp"
+  },
+  {
+   "nome": "BALA FINI MINHOCAS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini minhocas 80g",
+   "img": "6bdab835e0f205be.webp"
+  },
+  {
+   "nome": "BALA FINI MINHOCAS AZEDINHAS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini minhocas azedinhas 80g",
+   "img": "74affb8b33e71748.webp"
+  },
+  {
+   "nome": "BALA FINI TUBES MORANGO 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini tubes morango 80g",
+   "img": "70d74967e74ec49d.webp"
+  },
+  {
+   "nome": "BALA FINI TUBES MORANGO AZEDINHO 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini tubes morango azedinho 80g",
+   "img": "099b988834b2a601.webp"
+  },
+  {
+   "nome": "BALA FINI TUBES TUTTI FRUTTI AZEDINHO 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini tubes tutti frutti azedinho 80g",
+   "img": "97a77f8eae138ad5.webp"
+  },
+  {
+   "nome": "BALA FINI URSINHOS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini ursinhos 80g",
+   "img": "ff4daaa9fca33aef.webp"
+  },
+  {
+   "nome": "CHICLETE FINI MELANCIA AZEDINHA 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "chiclete fini melancia azedinha 80g",
+   "img": "f37ff4639c38a7b5.webp"
+  },
+  {
+   "nome": "CHICLETE FINI OVOS DE DINO AZEDINHOS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "chiclete fini ovos de dino azedinhos 80g",
+   "img": "3a097765fa53f013.webp"
+  },
+  {
+   "nome": "BARRA DE CEREAIS BRIGADEIRO - RITTER 22G",
+   "preco": 2.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de cereais brigadeiro - ritter 22g",
+   "img": "d1c7d1239b55808c.webp"
+  },
+  {
+   "nome": "BARRA DE CEREAIS BROWNIE E COBERTURA BRANCA - RITTER 20G",
+   "preco": 2.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de cereais brownie e cobertura branca - ritter 20g",
+   "img": "dbd28d050f0f1e28.webp"
+  },
+  {
+   "nome": "BARRA DE CEREAIS MORANGO C/ CHOCOLATE - RITTER 25G",
+   "preco": 2.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de cereais morango c/ chocolate - ritter 25g",
+   "img": "219736ebf74304fa.webp"
+  },
+  {
+   "nome": "BARRA DE CEREAIS BROWNIE - RITTER 22G",
+   "preco": 2.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de cereais brownie - ritter 22g",
+   "img": "322bb205393aca64.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA CHOCOLATE BRANCO 80G",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta chocolate branco 80g",
+   "img": "3c0f922e0b2b68ca.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA DIAMANTE NEGRO",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta diamante negro",
+   "img": "dd4ad3f879c7aa10.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA LAKA CARAMELO RECHEADOS 104G",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta laka caramelo recheados 104g",
+   "img": "09697612f4f602ab.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA OREO 80G (REGISTRO ANTIGO)",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta oreo 80g (registro antigo)",
+   "img": null
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA OREO RECHEADOS 90G",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta oreo recheados 90g",
+   "img": "1f91a0b072911232.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA OURO BRANCO 98G",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta ouro branco 98g",
+   "img": "8f2f1161b0c0a799.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA SHOT 80G",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta shot 80g",
+   "img": "6659ba068d5f1baa.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA SONHO DE VALSA 98G",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta sonho de valsa 98g",
+   "img": "2a3cd9d5d4e6fdaf.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA AO LEITE 80G",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta ao leite 80g",
+   "img": "0684af97b358e08e.webp"
+  },
+  {
+   "nome": "CHOCOLATE NEUGEBAUER AMENDOIM 80G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate neugebauer amendoim 80g",
+   "img": "8db7adbd871deb82.webp"
+  },
+  {
+   "nome": "CHOCOLATE NEUGEBAUER AO LEITE 80G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate neugebauer ao leite 80g",
+   "img": "efd04d80ac37056f.webp"
+  },
+  {
+   "nome": "CHOCOLATE NEUGEBAUER BRANCO 80G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate neugebauer branco 80g",
+   "img": "fe3128ee5802fa91.webp"
+  },
+  {
+   "nome": "CHOCOLATE NEUGEBAUER BRANCO COM COOKIES 80G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate neugebauer branco com cookies 80g",
+   "img": "423ab1955b61fe55.webp"
+  },
+  {
+   "nome": "CHOCOLATE NEUGEBAUER MEIO AMARGO 80G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate neugebauer meio amargo 80g",
+   "img": "6f62a442556cac15.webp"
+  },
+  {
+   "nome": "CHOCOLATE NEUGEBAUER PRETO E BRANCO 80G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate neugebauer preto e branco 80g",
+   "img": "e9e92873fc32fb29.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE HERSHEY'S COOKIES N CREAM",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate hershey's cookies n cream",
+   "img": "030560b7e38bf091.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE HERSHEY'S OVOMALTINE",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate hershey's ovomaltine",
+   "img": "39ff32be3013d78a.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE HERSHEY'S EXTRA CREMOSO",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate hershey's extra cremoso",
+   "img": "66293cf3c1e9883e.webp"
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE NESTLE CRUNCH",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate nestle crunch",
+   "img": "388eda8baeaeab3d.webp"
+  },
+  {
+   "nome": "CHOCOLATE KITKAT 41.5G",
+   "preco": 5.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate kitkat 41.5g",
+   "img": "558e7b02a707c915.webp"
+  },
+  {
+   "nome": "CHOCOLATE KIT-KAT BRANCO 41.5G",
+   "preco": 5.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate kit-kat branco 41.5g",
+   "img": "59038d8ff896e4e2.webp"
+  },
+  {
+   "nome": "CHOCOLATE KITKAT TRIPLE CHOCOLATE 41.5G",
+   "preco": 5.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate kitkat triple chocolate 41.5g",
+   "img": "85cef3c1694f893f.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA BIS BRANCO 100.8G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta bis branco 100.8g",
+   "img": "2c83ec5400181a75.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA BIS OREO 100.8G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta bis oreo 100.8g",
+   "img": "714b8cd04b7d250c.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA BIS PRETO 100.8G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta bis preto 100.8g",
+   "img": "e7697c7a623856b4.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA BIS LIMAO 100.8G",
+   "preco": 9.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta bis limao 100.8g",
+   "img": "a420447560eabc5e.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA BIS XTRA AO LEITE 45G",
+   "preco": 5.89,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta bis xtra ao leite 45g",
+   "img": "db1e20200a57b363.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA BIS XTRA BRANCO 45G",
+   "preco": 5.89,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta bis xtra branco 45g",
+   "img": "0af5854a928a7fc3.webp"
+  },
+  {
+   "nome": "CHOCOLATE LACTA BIS XTRA OREO 45G",
+   "preco": 5.89,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate lacta bis xtra oreo 45g",
+   "img": "4718d6e0f7672f75.webp"
+  },
+  {
+   "nome": "CHOCOLATE M&Ms AMENDOIM 45G",
+   "preco": 6.49,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate m&ms amendoim 45g",
+   "img": "9f0b1db6286e0c88.webp"
+  },
+  {
+   "nome": "CHOCOLATE M&Ms CHOCOLATE 45G",
+   "preco": 6.49,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate m&ms chocolate 45g",
+   "img": "9c4c47cc3d74f540.webp"
+  },
+  {
+   "nome": "CHOCOLATE M&MS COOKIE 35G",
+   "preco": 6.49,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate m&ms cookie 35g",
+   "img": "70eb116977f214ff.webp"
+  },
+  {
+   "nome": "CHOCOLATE STIKADINHO MORANGO 12.3G",
+   "preco": 1.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate stikadinho morango 12.3g",
+   "img": "1a6db80efee056f0.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO AVELA 29G",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento avela 29g",
+   "img": "a95a3af492a31c10.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO BRANCO DARK 32G",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento branco dark 32g",
+   "img": "135277d8ecfdd1f2.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO CHOCOLATE 29G",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento chocolate 29g",
+   "img": "ce76e551b423cc66.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO DUO 29G",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento duo 29g",
+   "img": "ec41a00ce8bd9bc9.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO MASSIMO CHOCOLATE",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento massimo chocolate",
+   "img": "d236f01b8bad14d4.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO MILK 29G",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento milk 29g",
+   "img": "d0f2e1d8434847f3.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO PISTACHE 29G",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento pistache 29g",
+   "img": "4d69ea1afa032c24.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO TORTA DE LIMAO 29G",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento torta de limao 29g",
+   "img": "0635cd7d4a049e69.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO SPECIALE PISTACHE / AVELA",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento speciale pistache / avela",
+   "img": "b8633be424eabd1a.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO MORANGO",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento morango",
+   "img": "865273fc1dd8a53f.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO ALLEGRO AMENDOIM",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento allegro amendoim",
+   "img": "4d1f0fe84b4721d9.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO CARAMELO",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento caramelo",
+   "img": "70b2ea6a9b520f06.webp"
+  },
+  {
+   "nome": "CHOCOLATE TRENTO TRUFA DE CHOCOLATE",
+   "preco": 3.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate trento trufa de chocolate",
+   "img": "0eedbf4d04a945ea.webp"
+  },
+  {
+   "nome": "SNICKER BRANCO 45G",
+   "preco": 5.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "snicker branco 45g",
+   "img": "b81f2c69af5cd6ab.webp"
+  },
+  {
+   "nome": "SNICKER ORIGINAL 45G",
+   "preco": 5.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "snicker original 45g",
+   "img": "54a4c1ac78ff6cf2.webp"
+  },
+  {
+   "nome": "SNICKERS DARK 45G",
+   "preco": 5.69,
+   "categoria": "Bomboniere",
+   "nome_busca": "snickers dark 45g",
+   "img": "2fa6700afe04088c.webp"
+  },
+  {
+   "nome": "STICK WAFER RECHEADO OURO BRANCO 25G",
+   "preco": 3.79,
+   "categoria": "Bomboniere",
+   "nome_busca": "stick wafer recheado ouro branco 25g",
+   "img": "fc5190343fd2976c.webp"
+  },
+  {
+   "nome": "STICK WAFER RECHEADO SONHO DE VALSA 25G",
+   "preco": 3.79,
+   "categoria": "Bomboniere",
+   "nome_busca": "stick wafer recheado sonho de valsa 25g",
+   "img": "c866fb691fbba878.webp"
+  },
+  {
+   "nome": "TWIX ORIGINAL 40GR",
+   "preco": 5.49,
+   "categoria": "Bomboniere",
+   "nome_busca": "twix original 40gr",
+   "img": "45ea2685ced385f5.webp"
+  },
+  {
+   "nome": "BOMBOM AMOR CARIOCA",
+   "preco": 1.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "bombom amor carioca",
+   "img": "90cd14810745598d.webp"
+  },
+  {
+   "nome": "BOMBOM LACTA OREO",
+   "preco": 2.39,
+   "categoria": "Bomboniere",
+   "nome_busca": "bombom lacta oreo",
+   "img": "473320f25a29b75c.webp"
+  },
+  {
+   "nome": "BOMBOM OURO BRANCO",
+   "preco": 2.39,
+   "categoria": "Bomboniere",
+   "nome_busca": "bombom ouro branco",
+   "img": "dc14d5443dee121b.webp"
+  },
+  {
+   "nome": "BOMBOM SONHO DE VALSA",
+   "preco": 2.39,
+   "categoria": "Bomboniere",
+   "nome_busca": "bombom sonho de valsa",
+   "img": "36c56e50cec77075.webp"
+  },
+  {
+   "nome": "PAÇOCA PAÇOQUITA 18GR",
+   "preco": 0.89,
+   "categoria": "Bomboniere",
+   "nome_busca": "pacoca pacoquita 18gr",
+   "img": "cc2f039126255b29.webp"
+  },
+  {
+   "nome": "BOLINHO RECHEADO SANTA EDWIGES 40G",
+   "preco": 2.49,
+   "categoria": "Bomboniere",
+   "nome_busca": "bolinho recheado santa edwiges 40g",
+   "img": "886fa903a6bb6660.webp"
+  },
+  {
+   "nome": "BISCOITO BAUDUCCO CHOCOLATE",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito bauducco chocolate",
+   "img": "baebcf27881a7c9f.webp"
+  },
+  {
+   "nome": "BISCOITO BAUDUCCO DUPLO CHOCOLATE",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito bauducco duplo chocolate",
+   "img": "144b71ec81e9a07a.webp"
+  },
+  {
+   "nome": "BISCOITO BAUDUCCO MORANGO",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito bauducco morango",
+   "img": "64c580ce6f6d82d5.webp"
+  },
+  {
+   "nome": "BISCOITO LOOK ATREVIDOS CHOCOLATE BRANCO 55G",
+   "preco": 3.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito look atrevidos chocolate branco 55g",
+   "img": "b7a5a6a5a860582e.webp"
+  },
+  {
+   "nome": "BISCOITO LOOK CHOCOLATE 55G",
+   "preco": 3.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito look chocolate 55g",
+   "img": "fe49dc4f81a83011.webp"
+  },
+  {
+   "nome": "BISCOITO LOOK COOKIES & CREAM 55G",
+   "preco": 3.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito look cookies & cream 55g",
+   "img": "9dce052598caa405.webp"
+  },
+  {
+   "nome": "BISCOITO LOOK FLORESTA NEGRA 55G",
+   "preco": 3.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito look floresta negra 55g",
+   "img": "6069f7c817be5199.webp"
+  },
+  {
+   "nome": "BISCOITO LOOK MORANGO 55G",
+   "preco": 3.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito look morango 55g",
+   "img": "3120b5c457076e10.webp"
+  },
+  {
+   "nome": "BISCOITO TUBIN CHOCOLATE 48G",
+   "preco": 2.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito tubin chocolate 48g",
+   "img": "b518d8cafd19a9b1.webp"
+  },
+  {
+   "nome": "BISCOITO RECHEADO TRAKINAS MEIO A MEIO 126G",
+   "preco": 4.89,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito recheado trakinas meio a meio 126g",
+   "img": "cce66fba387273b7.webp"
+  },
+  {
+   "nome": "BISCOITO RECHEADO TRAKINAS CHOCOLATE 126G",
+   "preco": 4.89,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito recheado trakinas chocolate 126g",
+   "img": "4abdbfd70cab3d7e.webp"
+  },
+  {
+   "nome": "BISCOITO RECHEADO TRAKINAS MORANGO 126G",
+   "preco": 4.89,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito recheado trakinas morango 126g",
+   "img": "240c60d8da939286.webp"
+  },
+  {
+   "nome": "BOLACHA NESTLE PASSATEMPO LEITE 130G",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "bolacha nestle passatempo leite 130g",
+   "img": "0479ea9bcb5ffdbe.webp"
+  },
+  {
+   "nome": "BOLACHA NESTLE BONO CHOCOLATE 90G",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "bolacha nestle bono chocolate 90g",
+   "img": "2a6cc22acacc4fbd.webp"
+  },
+  {
+   "nome": "BOLACHA NESTLE BONO DOCE DE LEITE 90G",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "bolacha nestle bono doce de leite 90g",
+   "img": "c4bbe4268ef42180.webp"
+  },
+  {
+   "nome": "BISCOITO BONO LIMAO",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito bono limao",
+   "img": "e65c03bb400d549c.webp"
+  },
+  {
+   "nome": "BOLACHA NESTLE NEGRESCO 90G",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "bolacha nestle negresco 90g",
+   "img": "75760757fc84bf5d.webp"
+  },
+  {
+   "nome": "BOLACHA NESTLE NEGRESCO MORANGO 90G",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "bolacha nestle negresco morango 90g",
+   "img": "4e0b86749ff33cf4.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER BAUDUCO CHOCOLATE 140 GR",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer bauduco chocolate 140 gr",
+   "img": "f225b014cdaaeda5.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER BAUDUCO CHOCOLATE/AVELA 140 GR",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer bauduco chocolate/avela 140 gr",
+   "img": "b0a9c07f298b01dc.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER BAUDUCO MORANGO 140 GR",
+   "preco": 4.99,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer bauduco morango 140 gr",
+   "img": "5fafd05a45851aad.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER CHOCOLATE 80 GR",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer chocolate 80 gr",
+   "img": "eb9dd9939619bb63.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER BRIGADEIRO 80 GR",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer brigadeiro 80 gr",
+   "img": "102df6ae3381d104.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER CHOCOLATE BRANCO 80 GR",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer chocolate branco 80 gr",
+   "img": "de0c699cae6c90bd.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER MORANGO 80 GR",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer morango 80 gr",
+   "img": "42c1059b749326a6.webp"
+  },
+  {
+   "nome": "BISCOITO WAFER LIMAO 80 GR",
+   "preco": 3.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito wafer limao 80 gr",
+   "img": "28a3e07c5bc60e88.webp"
+  },
+  {
+   "nome": "COOKIES BAUDUCCO CHOCOLATE 100G",
+   "preco": 6.99,
+   "categoria": "Biscoito",
+   "nome_busca": "cookies bauducco chocolate 100g",
+   "img": "afe3ead08d6cfdca.webp"
+  },
+  {
+   "nome": "COOKIES BAUDUCCO TRADICIONAL 100G",
+   "preco": 6.99,
+   "categoria": "Biscoito",
+   "nome_busca": "cookies bauducco tradicional 100g",
+   "img": "63b482e3db761462.webp"
+  },
+  {
+   "nome": "BISCOITO TORTINHA CHOCOLATE 140 GR",
+   "preco": 4.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito tortinha chocolate 140 gr",
+   "img": "a9d991961bac807b.webp"
+  },
+  {
+   "nome": "BISCOITO TORTINHA CHOCOLATE BRANCO ISABELA 140 GR",
+   "preco": 4.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito tortinha chocolate branco isabela 140 gr",
+   "img": "bb5d92daec396397.webp"
+  },
+  {
+   "nome": "BISCOITO TORTINHA LIMAO 140 GR",
+   "preco": 4.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito tortinha limao 140 gr",
+   "img": "a34f5f24d403cd0a.webp"
+  },
+  {
+   "nome": "BISCOITO TORTINHA MORANGO 140 GR",
+   "preco": 4.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito tortinha morango 140 gr",
+   "img": "c9bbf98f26483965.webp"
+  },
+  {
+   "nome": "BISCOITO CREAM CRACKER MARILAN 350 GR",
+   "preco": 8.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito cream cracker marilan 350 gr",
+   "img": "76ef18c13f6b2b15.webp"
+  },
+  {
+   "nome": "BISCOITO MAIZENA 350 GR",
+   "preco": 8.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito maizena 350 gr",
+   "img": "a4a0272e1cdc62df.webp"
+  },
+  {
+   "nome": "BISCOITO MARIA 350 GR",
+   "preco": 8.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito maria 350 gr",
+   "img": "4c6097604de64cde.webp"
+  },
+  {
+   "nome": "BISCOITO SALGADO AGUA E SAL MARILAN 350 GR",
+   "preco": 8.49,
+   "categoria": "Biscoito",
+   "nome_busca": "biscoito salgado agua e sal marilan 350 gr",
+   "img": "2c18d68ac5126ab9.webp"
+  },
+  {
+   "nome": "CLUB SOCIAL CEBOLA COM SOUR CREAM",
+   "preco": 7.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "club social cebola com sour cream",
+   "img": "7d9854270e821809.webp"
+  },
+  {
+   "nome": "BISCOITO CLUB SOCIAL ORIGINAL 141G",
+   "preco": 7.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "biscoito club social original 141g",
+   "img": "c0a76f3abaac1705.webp"
+  },
+  {
+   "nome": "BISCOITO CLUB SOCIAL PRESUNTO 141G",
+   "preco": 7.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "biscoito club social presunto 141g",
+   "img": "97ed5a8d30397466.webp"
+  },
+  {
+   "nome": "SALGADINHO PASTELINA 100G",
+   "preco": 5.49,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho pastelina 100g",
+   "img": "002f1cc7acd5f71a.webp"
+  },
+  {
+   "nome": "SALGADINHO ELMA CHIPS STAX ORIGINAL 163G",
+   "preco": 14.99,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho elma chips stax original 163g",
+   "img": "1c28b59960862af3.webp"
+  },
+  {
+   "nome": "SALGADINHO PRINGLES CHEDAR BACON 104G",
+   "preco": 15.99,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho pringles chedar bacon 104g",
+   "img": "fb922f9ac2669329.webp"
+  },
+  {
+   "nome": "SALGADINHO PRINGLES CHURRASCO 104G",
+   "preco": 15.99,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho pringles churrasco 104g",
+   "img": "a34328104d873c7e.webp"
+  },
+  {
+   "nome": "SALGADINHO PRINGLES CRÈME E CEBOLA 104G",
+   "preco": 15.99,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho pringles creme e cebola 104g",
+   "img": "b5f5aa5dc6a4ece1.webp"
+  },
+  {
+   "nome": "SALGADINHO PRINGLES ORIGINAL 104G",
+   "preco": 15.99,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho pringles original 104g",
+   "img": "906cb552e60f0903.webp"
+  },
+  {
+   "nome": "SALGADINHO TORCIDA BACON 60G",
+   "preco": 3.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho torcida bacon 60g",
+   "img": "fe66f3e0a3991dc5.webp"
+  },
+  {
+   "nome": "SALGADINHO TORCIDA CHURRASCO 40G",
+   "preco": 3.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho torcida churrasco 40g",
+   "img": "e56f56e4806b0710.webp"
+  },
+  {
+   "nome": "SALGADINHO TORCIDA QUEIJO 60G",
+   "preco": 3.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho torcida queijo 60g",
+   "img": "44190991dfac4b6a.webp"
+  },
+  {
+   "nome": "BISCOITO TORCIDA CEBOLA",
+   "preco": 3.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "biscoito torcida cebola",
+   "img": "fbf2dd02e3b589db.webp"
+  },
+  {
+   "nome": "BISCOITO TORCIDA COSTELINHA COM LIMAO",
+   "preco": 3.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "biscoito torcida costelinha com limao",
+   "img": "eeff43a09293b9a3.webp"
+  },
+  {
+   "nome": "SALGADINHO TORCIDA PIMENTA MEXICANA 40G",
+   "preco": 3.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "salgadinho torcida pimenta mexicana 40g",
+   "img": "86337c53a56a88a8.webp"
+  },
+  {
+   "nome": "YOKITOS PRESUNTO",
+   "preco": 4.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "yokitos presunto",
+   "img": "3efc9ad191eae5ad.webp"
+  },
+  {
+   "nome": "YOKITOS QUEIJO",
+   "preco": 4.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "yokitos queijo",
+   "img": "770fbde38edcda96.webp"
+  },
+  {
+   "nome": "YOKITOS QUEIJO REDINHA",
+   "preco": 4.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "yokitos queijo redinha",
+   "img": "b5aea0840bba9d1c.webp"
+  },
+  {
+   "nome": "YOKITOS QUEIJO TUBINHO",
+   "preco": 4.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "yokitos queijo tubinho",
+   "img": "99166528e914aea3.webp"
+  },
+  {
+   "nome": "YOKITOS QUEIJO TUBO",
+   "preco": 4.89,
+   "categoria": "Salgadinhos",
+   "nome_busca": "yokitos queijo tubo",
+   "img": "d3cda0fc735a837c.webp"
+  },
+  {
+   "nome": "AMENDOIM PETTIZ - 50G",
+   "preco": 3.49,
+   "categoria": "Salgadinhos",
+   "nome_busca": "amendoim pettiz - 50g",
+   "img": "19046995114a1609.webp"
+  },
+  {
+   "nome": "AMENDOIM PETTIZ CEBOLA E SALSA - 50G",
+   "preco": 3.49,
+   "categoria": "Salgadinhos",
+   "nome_busca": "amendoim pettiz cebola e salsa - 50g",
+   "img": null
+  },
+  {
+   "nome": "AMENDOIM PETTIZ PIMENTA VERMELHA - 50G",
+   "preco": 3.49,
+   "categoria": "Salgadinhos",
+   "nome_busca": "amendoim pettiz pimenta vermelha - 50g",
+   "img": null
+  },
+  {
+   "nome": "ANEIS DE CEBOLA BEM BRASIL 400G",
+   "preco": 16.99,
+   "categoria": "Congelados",
+   "nome_busca": "aneis de cebola bem brasil 400g",
+   "img": "5f2e88332b40f68f.webp"
+  },
+  {
+   "nome": "BATATA MCCAIN 600G AIRFRYER",
+   "preco": 23.89,
+   "categoria": "Congelados",
+   "nome_busca": "batata mccain 600g airfryer",
+   "img": "b99c80da0ad3d473.webp"
+  },
+  {
+   "nome": "STEAK DE FRANGO LEBON 100G",
+   "preco": 3.19,
+   "categoria": "Congelados",
+   "nome_busca": "steak de frango lebon 100g",
+   "img": "8a8af6b86e576e8c.webp"
+  },
+  {
+   "nome": "STEAK TRADICIONAL FRANGO SEARA 100G",
+   "preco": 3.19,
+   "categoria": "Congelados",
+   "nome_busca": "steak tradicional frango seara 100g",
+   "img": "c3e3c2971a426a2e.webp"
+  },
+  {
+   "nome": "STEAK TRADICIONAL FRANGO LAR 100G",
+   "preco": 3.19,
+   "categoria": "Congelados",
+   "nome_busca": "steak tradicional frango lar 100g",
+   "img": "394043b449b51d0f.webp"
+  },
+  {
+   "nome": "NUGGETS CROCANTE SADIA 300G",
+   "preco": 13.99,
+   "categoria": "Congelados",
+   "nome_busca": "nuggets crocante sadia 300g",
+   "img": "a58a94669d1487f1.webp"
+  },
+  {
+   "nome": "SEARA CHICKEN CRISPY 300G",
+   "preco": 16.99,
+   "categoria": "Congelados",
+   "nome_busca": "seara chicken crispy 300g",
+   "img": "1c2c5f3eaaea91f7.webp"
+  },
+  {
+   "nome": "SEARA CHICKEN SUPREME 300G",
+   "preco": 16.99,
+   "categoria": "Congelados",
+   "nome_busca": "seara chicken supreme 300g",
+   "img": "43541b27ed0a268a.webp"
+  },
+  {
+   "nome": "TIRINHAS DE FRANGO AURORA",
+   "preco": 12.99,
+   "categoria": "Congelados",
+   "nome_busca": "tirinhas de frango aurora",
+   "img": "c0350f23d54dbec9.webp"
+  },
+  {
+   "nome": "HOT HIT SEARA BACON",
+   "preco": 12.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot hit seara bacon",
+   "img": "b6326a9ccfd8492b.webp"
+  },
+  {
+   "nome": "HOT HIT SEARA CHEDDAR",
+   "preco": 12.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot hit seara cheddar",
+   "img": "a48a2534607aeb0b.webp"
+  },
+  {
+   "nome": "HOT HIT SEARA PICANHA",
+   "preco": 12.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot hit seara picanha",
+   "img": "23b443a3219d1274.webp"
+  },
+  {
+   "nome": "HOT POCKET SADIA X-BURGUER",
+   "preco": 11.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot pocket sadia x-burguer",
+   "img": "ffa6d1749933b3b4.webp"
+  },
+  {
+   "nome": "HOT POCKET SADIA X-PICANHA",
+   "preco": 11.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot pocket sadia x-picanha",
+   "img": "02496e71f5682758.webp"
+  },
+  {
+   "nome": "HOT BOWL MAC&CHEESE SADIA BACON",
+   "preco": 13.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot bowl mac&cheese sadia bacon",
+   "img": "6bc6240a52bb87d1.webp"
+  },
+  {
+   "nome": "HOT BOWL MAC&CHEESE SADIA CHEDDAR",
+   "preco": 13.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot bowl mac&cheese sadia cheddar",
+   "img": "4dd6018163d6ddfc.webp"
+  },
+  {
+   "nome": "HOT BOWL MAC&CHEESE SADIA CHEDDAR E CALABRESA",
+   "preco": 12.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot bowl mac&cheese sadia cheddar e calabresa",
+   "img": "ce36e64d3b7e32e6.webp"
+  },
+  {
+   "nome": "HOT BOWL NHOQUE SADIA",
+   "preco": 13.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot bowl nhoque sadia",
+   "img": "08e154dde7dead91.webp"
+  },
+  {
+   "nome": "HOT BOWL MACARRAO COM MINI ALMONDEGAS",
+   "preco": 12.99,
+   "categoria": "Congelados",
+   "nome_busca": "hot bowl macarrao com mini almondegas",
+   "img": "d3a1b945cc6d604e.webp"
+  },
+  {
+   "nome": "FETTUCINE BOLONHESA PERDIGAO",
+   "preco": 15.99,
+   "categoria": "Congelados",
+   "nome_busca": "fettucine bolonhesa perdigao",
+   "img": "ebebdf7461b9d0d1.webp"
+  },
+  {
+   "nome": "PERDIGAO MEU MENU STROGONOFF",
+   "preco": 17.99,
+   "categoria": "Congelados",
+   "nome_busca": "perdigao meu menu strogonoff",
+   "img": "a2f3f19bb553c0ba.webp"
+  },
+  {
+   "nome": "LASANHA BOLONHESA SADIA 600G",
+   "preco": 20.89,
+   "categoria": "Congelados",
+   "nome_busca": "lasanha bolonhesa sadia 600g",
+   "img": "20ad302e27a1b83d.webp"
+  },
+  {
+   "nome": "LASANHA SEARA BOLONHESA 600G",
+   "preco": 20.89,
+   "categoria": "Congelados",
+   "nome_busca": "lasanha seara bolonhesa 600g",
+   "img": "5db4a4dd76589803.webp"
+  },
+  {
+   "nome": "LASANHA PERDIGAO BOLONHESA 600G",
+   "preco": 19.89,
+   "categoria": "Congelados",
+   "nome_busca": "lasanha perdigao bolonhesa 600g",
+   "img": "090939cdd276187e.webp"
+  },
+  {
+   "nome": "LASANHA 4 QUEIJOS SADIA 600G",
+   "preco": 20.89,
+   "categoria": "Congelados",
+   "nome_busca": "lasanha 4 queijos sadia 600g",
+   "img": "ee32983b61eb4e50.webp"
+  },
+  {
+   "nome": "LASANHA SEARA 4 QUEIJOS 600G",
+   "preco": 20.89,
+   "categoria": "Congelados",
+   "nome_busca": "lasanha seara 4 queijos 600g",
+   "img": "8d36a1bdcc386a30.webp"
+  },
+  {
+   "nome": "LASANHA SEARA FRANGO 600G",
+   "preco": 19.89,
+   "categoria": "Congelados",
+   "nome_busca": "lasanha seara frango 600g",
+   "img": "c991f1e679ace0f2.webp"
+  },
+  {
+   "nome": "LASANHA PERDIGAO FRANGO 600G",
+   "preco": 20.89,
+   "categoria": "Congelados",
+   "nome_busca": "lasanha perdigao frango 600g",
+   "img": "e18cb5e568621596.webp"
+  },
+  {
+   "nome": "PIZZA LEBON CALABRESA 400G",
+   "preco": 19.99,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza lebon calabresa 400g",
+   "img": "61e70fea0a41cb73.webp"
+  },
+  {
+   "nome": "PIZZA LEBON FRANGO C REQUEIJAO 400G",
+   "preco": 19.99,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza lebon frango c requeijao 400g",
+   "img": "cbc6512fce81a23f.webp"
+  },
+  {
+   "nome": "PIZZA LEBON LOMBO COM REQUEIJAO 400G",
+   "preco": 19.99,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza lebon lombo com requeijao 400g",
+   "img": "eeb05c60829a6102.webp"
+  },
+  {
+   "nome": "PIZZA SADIA 4 MARGUERITA",
+   "preco": 25.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza sadia 4 marguerita",
+   "img": "e9748f5e4b3a568b.webp"
+  },
+  {
+   "nome": "PIZZA SADIA 4 QUEIJOS",
+   "preco": 25.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza sadia 4 queijos",
+   "img": "9b259c41a4c255b4.webp"
+  },
+  {
+   "nome": "PIZZA SADIA CALABRESA",
+   "preco": 25.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza sadia calabresa",
+   "img": "119c71af34091557.webp"
+  },
+  {
+   "nome": "PIZZA SADIA FRANGO/REQUEIJÃO",
+   "preco": 25.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza sadia frango/requeijao",
+   "img": "43bf94d2c2e17988.webp"
+  },
+  {
+   "nome": "PIZZA SADIA LOMBO/REQUEIJÃO",
+   "preco": 25.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza sadia lombo/requeijao",
+   "img": "72ef78d783987cfd.webp"
+  },
+  {
+   "nome": "PIZZA SADIA MUSSARELA",
+   "preco": 25.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza sadia mussarela",
+   "img": "d9be04d7152605fa.webp"
+  },
+  {
+   "nome": "PIZZA SEARA CALABRESA",
+   "preco": 24.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza seara calabresa",
+   "img": "6b2293cdbd99bfb9.webp"
+  },
+  {
+   "nome": "PIZZA SEARA LOMBO C/ CATUPIRY",
+   "preco": 24.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza seara lombo c/ catupiry",
+   "img": "19fc10b879d6d7c1.webp"
+  },
+  {
+   "nome": "ABSORVENTE SEMPRE LIVRE - 8 UNIDADES",
+   "preco": 8.89,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "absorvente sempre livre - 8 unidades",
+   "img": "2d117707800b12ee.webp"
+  },
+  {
+   "nome": "LENCO UMEDECIDO 40 UN. PURO AMOR",
+   "preco": 6.49,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "lenco umedecido 40 un. puro amor",
+   "img": "f14e39790a8a82a2.webp"
+  },
+  {
+   "nome": "ALGODÃO 50G",
+   "preco": 6.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "algodao 50g",
+   "img": "fb9267136a60c367.webp"
+  },
+  {
+   "nome": "HASTES FLEXIVEIS - COTONETES",
+   "preco": 4.29,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "hastes flexiveis - cotonetes",
+   "img": "868d5528994e51d2.webp"
+  },
+  {
+   "nome": "ACETONA 100ML",
+   "preco": 5.98,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "acetona 100ml",
+   "img": "61b3798d576f7f3e.webp"
+  },
+  {
+   "nome": "BAND-AID",
+   "preco": 5.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "band-aid",
+   "img": "c6ed76830b93ef2f.webp"
+  },
+  {
+   "nome": "PAPEL HIGIENICO FOLHA DUPLA - 4 ROLOS",
+   "preco": 11.89,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "papel higienico folha dupla - 4 rolos",
+   "img": "1b5e03f93a900761.webp"
+  },
+  {
+   "nome": "PAPEL HIGIENICO FOLHA DUPLA - 4 ROLOS (MILI)",
+   "preco": 10.39,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "papel higienico folha dupla - 4 rolos (mili)",
+   "img": "2b7a20bc26b46f69.webp"
+  },
+  {
+   "nome": "PAPEL TOALHA 2 UN.",
+   "preco": 6.49,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "papel toalha 2 un.",
+   "img": "f61d81b01164b93f.webp"
+  },
+  {
+   "nome": "DESODORANTE SPRAY FEMININO",
+   "preco": 17.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "desodorante spray feminino",
+   "img": "135661042d778a6c.webp"
+  },
+  {
+   "nome": "DESODORANTE SPRAY MASCULINO",
+   "preco": 17.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "desodorante spray masculino",
+   "img": "45507554dd428878.webp"
+  },
+  {
+   "nome": "ESCOVA DENTAL",
+   "preco": 6.49,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "escova dental",
+   "img": "af6b4449d83e95fe.webp"
+  },
+  {
+   "nome": "ESCOVA DENTAL INFANTIL",
+   "preco": 3.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "escova dental infantil",
+   "img": "9fca309a27debb05.webp"
+  },
+  {
+   "nome": "CREME DENTAL CLOSEUP HORTELA 70G",
+   "preco": 4.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "creme dental closeup hortela 70g",
+   "img": "025d8a260159e0be.webp"
+  },
+  {
+   "nome": "CREME DENTAL CLOSEUP MENTA 70G",
+   "preco": 4.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "creme dental closeup menta 70g",
+   "img": "665753a99175aef9.webp"
+  },
+  {
+   "nome": "CREME DENTAL ORAL B ANTI CARIES 70g",
+   "preco": 5.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "creme dental oral b anti caries 70g",
+   "img": "dddd39d62a0cfda2.webp"
+  },
+  {
+   "nome": "APARELHO BARBEAR FIAT LUX FLEXOR 3 ROSA",
+   "preco": 7.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "aparelho barbear fiat lux flexor 3 rosa",
+   "img": "0091918f177dac17.webp"
+  },
+  {
+   "nome": "GILLETTE VENUS SUAVE (1 UN.)",
+   "preco": 8.49,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "gillette venus suave (1 un.)",
+   "img": "562e56cf9587cecd.webp"
+  },
+  {
+   "nome": "APARELHO BARBEAR FIAT LUX FLEXOR 3 VERDE/AZUL",
+   "preco": 7.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "aparelho barbear fiat lux flexor 3 verde/azul",
+   "img": "0dd7e99192e00f45.webp"
+  },
+  {
+   "nome": "GILLETTE PRESTO 3 (1 UN.)",
+   "preco": 8.49,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "gillette presto 3 (1 un.)",
+   "img": "154594b1cd75e085.webp"
+  },
+  {
+   "nome": "GILLETTE AZUL UN.",
+   "preco": 3.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "gillette azul un.",
+   "img": "60da7711821d12f6.webp"
+  },
+  {
+   "nome": "GILLETTE ROSAS UN.",
+   "preco": 3.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "gillette rosas un.",
+   "img": "a095c365c8b00b29.webp"
+  },
+  {
+   "nome": "PRESERVATIVO - COM 3",
+   "preco": 11.89,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "preservativo - com 3",
+   "img": "68ad2565545806b8.webp"
+  },
+  {
+   "nome": "PRESERVATIVO JONTEX - COM 3",
+   "preco": 12.89,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "preservativo jontex - com 3",
+   "img": "b41d4cf818bfd454.webp"
+  },
+  {
+   "nome": "SABONETE JOHNSONS",
+   "preco": 3.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "sabonete johnsons",
+   "img": "df64b2908ebec650.webp"
+  },
+  {
+   "nome": "SABONETE NIVEA",
+   "preco": 4.49,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "sabonete nivea",
+   "img": "18ff24d9b18554cc.webp"
+  },
+  {
+   "nome": "SABONETE REXONA",
+   "preco": 4.49,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "sabonete rexona",
+   "img": "b89adcf659daaf46.webp"
+  },
+  {
+   "nome": "CHAMBINHO MORANGO 100G",
+   "preco": 4.19,
+   "categoria": "Laticinios",
+   "nome_busca": "chambinho morango 100g",
+   "img": "7a9ceb4e98b2fa4c.webp"
+  },
+  {
+   "nome": "YOPRO DANONE 250ML",
+   "preco": 10.99,
+   "categoria": "Laticinios",
+   "nome_busca": "yopro danone 250ml",
+   "img": "941a48bf790199a5.webp"
+  },
+  {
+   "nome": "MANTEIGA ELEGE COM SAL 200G",
+   "preco": 13.99,
+   "categoria": "Laticinios",
+   "nome_busca": "manteiga elege com sal 200g",
+   "img": "9f2d75ea4a684285.webp"
+  },
+  {
+   "nome": "MANTEIGA ELEGE SEM SAL 200G",
+   "preco": 13.99,
+   "categoria": "Laticinios",
+   "nome_busca": "manteiga elege sem sal 200g",
+   "img": "7e175ee7dfef5441.webp"
+  },
+  {
+   "nome": "MARGARINA QUALY CREMOSA COM SAL 250G",
+   "preco": 7.99,
+   "categoria": "Laticinios",
+   "nome_busca": "margarina qualy cremosa com sal 250g",
+   "img": "f7d142c305b31179.webp"
+  },
+  {
+   "nome": "REQUEIJÃO PIA 180G",
+   "preco": 10.49,
+   "categoria": "Laticinios",
+   "nome_busca": "requeijao pia 180g",
+   "img": "0f934f518c06ec65.webp"
+  },
+  {
+   "nome": "REQUEIJÃO PIA LIGHT 180G",
+   "preco": 10.49,
+   "categoria": "Laticinios",
+   "nome_busca": "requeijao pia light 180g",
+   "img": "5a9148bfc7bda34d.webp"
+  },
+  {
+   "nome": "REQUEIJÃO SANTA CLARA 180G",
+   "preco": 10.49,
+   "categoria": "Laticinios",
+   "nome_busca": "requeijao santa clara 180g",
+   "img": "8473344fed1bd937.webp"
+  },
+  {
+   "nome": "QUEIJO MUSSARELA DALIA 150G",
+   "preco": 12.99,
+   "categoria": "Laticinios",
+   "nome_busca": "queijo mussarela dalia 150g",
+   "img": "ac235f539128394f.webp"
+  },
+  {
+   "nome": "QUEIJO MUSSARELA PRESIDENT 150G",
+   "preco": 13.49,
+   "categoria": "Laticinios",
+   "nome_busca": "queijo mussarela president 150g",
+   "img": "d17bf780485ac4b6.webp"
+  },
+  {
+   "nome": "ALCOOL ETILICO 500ML",
+   "preco": 7.99,
+   "categoria": "Limpeza",
+   "nome_busca": "alcool etilico 500ml",
+   "img": null
+  },
+  {
+   "nome": "AGUA SANITARIA YPE 1L",
+   "preco": 6.49,
+   "categoria": "Limpeza",
+   "nome_busca": "agua sanitaria ype 1l",
+   "img": "3ba85b4f17a92e9a.webp"
+  },
+  {
+   "nome": "AGUA SANITARIA YPE 2L",
+   "preco": 11.89,
+   "categoria": "Limpeza",
+   "nome_busca": "agua sanitaria ype 2l",
+   "img": "d6ed6fbd5cec5ce5.webp"
+  },
+  {
+   "nome": "ALVEJANTE YPE FLORES DA PRIMAVERA 1L",
+   "preco": 8.99,
+   "categoria": "Limpeza",
+   "nome_busca": "alvejante ype flores da primavera 1l",
+   "img": "1d07e8323ceb959f.webp"
+  },
+  {
+   "nome": "AMACIANTE CONC YPE BRISA LILAS 500ML",
+   "preco": 11.99,
+   "categoria": "Limpeza",
+   "nome_busca": "amaciante conc ype brisa lilas 500ml",
+   "img": "b344023f171a6782.webp"
+  },
+  {
+   "nome": "AMACIANTE CONC YPE FRESCOR FLORES 500ML",
+   "preco": 11.99,
+   "categoria": "Limpeza",
+   "nome_busca": "amaciante conc ype frescor flores 500ml",
+   "img": "ba76c004d2293d64.webp"
+  },
+  {
+   "nome": "AMACIANTE YPE ACONCHEGO 2L",
+   "preco": 11.99,
+   "categoria": "Limpeza",
+   "nome_busca": "amaciante ype aconchego 2l",
+   "img": "4afdb57490ad707e.webp"
+  },
+  {
+   "nome": "LA DE ACO BOMBRIL",
+   "preco": 4.29,
+   "categoria": "Limpeza",
+   "nome_busca": "la de aco bombril",
+   "img": "7d410d17297ad8b4.webp"
+  },
+  {
+   "nome": "ESPONJA MULTI USO (LEV4 PG3) CONDOR C/4UND",
+   "preco": 5.99,
+   "categoria": "Limpeza",
+   "nome_busca": "esponja multi uso (lev4 pg3) condor c/4und",
+   "img": "d995708c3e10747a.webp"
+  },
+  {
+   "nome": "DET LIQUIDO YPE CLEAR CARA 500ML",
+   "preco": 3.99,
+   "categoria": "Limpeza",
+   "nome_busca": "det liquido ype clear cara 500ml",
+   "img": "85e53f5be1647992.webp"
+  },
+  {
+   "nome": "DET LIQUIDO YPE COCO 500ML",
+   "preco": 3.99,
+   "categoria": "Limpeza",
+   "nome_busca": "det liquido ype coco 500ml",
+   "img": "a090d5adee5d1f1b.webp"
+  },
+  {
+   "nome": "DET LIQUIDO YPE LIMAO 500ML",
+   "preco": 3.99,
+   "categoria": "Limpeza",
+   "nome_busca": "det liquido ype limao 500ml",
+   "img": "32f7651be9b06f09.webp"
+  },
+  {
+   "nome": "DESINF BAK YPE EUCALIPTO 500ML",
+   "preco": 4.49,
+   "categoria": "Limpeza",
+   "nome_busca": "desinf bak ype eucalipto 500ml",
+   "img": "1f6579a0e047918f.webp"
+  },
+  {
+   "nome": "PINHO YPE LAVANDA 500ML",
+   "preco": 9.49,
+   "categoria": "Limpeza",
+   "nome_busca": "pinho ype lavanda 500ml",
+   "img": "8c6499a63d2184d3.webp"
+  },
+  {
+   "nome": "LIMP PERF YPE AZUL TROPICAL 500ML",
+   "preco": 6.99,
+   "categoria": "Limpeza",
+   "nome_busca": "limp perf ype azul tropical 500ml",
+   "img": "e5f1dbeca18160d0.webp"
+  },
+  {
+   "nome": "LIMP PERF YPE DOCE VIDA 500ML",
+   "preco": 6.99,
+   "categoria": "Limpeza",
+   "nome_busca": "limp perf ype doce vida 500ml",
+   "img": "0cc0dde23aa3809d.webp"
+  },
+  {
+   "nome": "M.USO YPE CLASSICO 500ML",
+   "preco": 6.89,
+   "categoria": "Limpeza",
+   "nome_busca": "m.uso ype classico 500ml",
+   "img": "ad2b82b3922ade56.webp"
+  },
+  {
+   "nome": "M.USO YPE COM ALCOOL 500ML",
+   "preco": 6.89,
+   "categoria": "Limpeza",
+   "nome_busca": "m.uso ype com alcool 500ml",
+   "img": "24bdf9e94efcf56a.webp"
+  },
+  {
+   "nome": "M.USO YPE CONTROLE DE ODOR 500ML",
+   "preco": 6.89,
+   "categoria": "Limpeza",
+   "nome_busca": "m.uso ype controle de odor 500ml",
+   "img": "9a6ce5cf4cc41ac9.webp"
+  },
+  {
+   "nome": "SABAO BARRA YPE NEUTRO 160G",
+   "preco": 5.29,
+   "categoria": "Limpeza",
+   "nome_busca": "sabao barra ype neutro 160g",
+   "img": "1ee14b06ed7dfe2c.webp"
+  },
+  {
+   "nome": "LAVA ROUPAS PO TIXAN YPE MACIEZ SACHE 800G",
+   "preco": 13.49,
+   "categoria": "Limpeza",
+   "nome_busca": "lava roupas po tixan ype maciez sache 800g",
+   "img": "746537cbe1d314d3.webp"
+  },
+  {
+   "nome": "LAVA ROUPAS PO TIXAN YPE PRIMAVERA SACH 800G",
+   "preco": 13.49,
+   "categoria": "Limpeza",
+   "nome_busca": "lava roupas po tixan ype primavera sach 800g",
+   "img": "a25f9e1d49c1ed21.webp"
+  },
+  {
+   "nome": "LAVA ROUPAS LIQ TIXAN MACIEZ POUCH 900ML",
+   "preco": 13.99,
+   "categoria": "Limpeza",
+   "nome_busca": "lava roupas liq tixan maciez pouch 900ml",
+   "img": "315da6cf8a6a0b97.webp"
+  },
+  {
+   "nome": "LAVA ROUPAS LIQ TIXAN PRIMAVERA 1L",
+   "preco": 15.49,
+   "categoria": "Limpeza",
+   "nome_busca": "lava roupas liq tixan primavera 1l",
+   "img": "75a7c7509f7fb66a.webp"
+  },
+  {
+   "nome": "SACO LIXO 100L ROLO C/15 CONDOR",
+   "preco": 17.99,
+   "categoria": "Limpeza",
+   "nome_busca": "saco lixo 100l rolo c/15 condor",
+   "img": "efa6c25fec18dc42.webp"
+  },
+  {
+   "nome": "SACO LIXO 30L ROLO C/30 CONDOR",
+   "preco": 17.99,
+   "categoria": "Limpeza",
+   "nome_busca": "saco lixo 30l rolo c/30 condor",
+   "img": null
+  },
+  {
+   "nome": "SACO LIXO 50L ROLO C/30 CONDOR",
+   "preco": 17.99,
+   "categoria": "Limpeza",
+   "nome_busca": "saco lixo 50l rolo c/30 condor",
+   "img": "bcd7cb36b8330b0e.webp"
+  },
+  {
+   "nome": "OLEO DE SOJA",
+   "preco": 11.69,
+   "categoria": "Mercearia",
+   "nome_busca": "oleo de soja",
+   "img": "96c463dcd47cffa9.webp"
+  },
+  {
+   "nome": "VINAGRE DE ALCOOL 750ML",
+   "preco": 3.49,
+   "categoria": "Mercearia",
+   "nome_busca": "vinagre de alcool 750ml",
+   "img": "7d0d2f72b9449dbe.webp"
+  },
+  {
+   "nome": "AÇUCAR REFINADO 1KG",
+   "preco": 5.99,
+   "categoria": "Mercearia",
+   "nome_busca": "acucar refinado 1kg",
+   "img": "c1aedc674d0e9c13.webp"
+  },
+  {
+   "nome": "ARROZ BRANCO 1KG",
+   "preco": 5.89,
+   "categoria": "Mercearia",
+   "nome_busca": "arroz branco 1kg",
+   "img": "436c6da9862015aa.webp"
+  },
+  {
+   "nome": "FEIJAO PRETO 1KG",
+   "preco": 6.75,
+   "categoria": "Mercearia",
+   "nome_busca": "feijao preto 1kg",
+   "img": "a8fd7d73605daf64.webp"
+  },
+  {
+   "nome": "SAL GROSSO 1 KG",
+   "preco": 3.99,
+   "categoria": "Mercearia",
+   "nome_busca": "sal grosso 1 kg",
+   "img": "93984bb506b35cc4.webp"
+  },
+  {
+   "nome": "SAL REFINADO 1KG",
+   "preco": 3.99,
+   "categoria": "Mercearia",
+   "nome_busca": "sal refinado 1kg",
+   "img": "f46100f372843e31.webp"
+  },
+  {
+   "nome": "FARINHA DE TRIGO - TIPO 1 - 1KG",
+   "preco": 5.29,
+   "categoria": "Mercearia",
+   "nome_busca": "farinha de trigo - tipo 1 - 1kg",
+   "img": null
+  },
+  {
+   "nome": "CREME DE LEITE ITALAC 200G",
+   "preco": 4.69,
+   "categoria": "Mercearia",
+   "nome_busca": "creme de leite italac 200g",
+   "img": "121c003dd92c1bfb.webp"
+  },
+  {
+   "nome": "LEITE CONDENSADO",
+   "preco": 7.89,
+   "categoria": "Mercearia",
+   "nome_busca": "leite condensado",
+   "img": "5e8ae0b5353cbc70.webp"
+  },
+  {
+   "nome": "LEITE DESNATADO 1L",
+   "preco": 6.49,
+   "categoria": "Mercearia",
+   "nome_busca": "leite desnatado 1l",
+   "img": "2ba54dfef08a65c6.webp"
+  },
+  {
+   "nome": "LEITE INTEGRAL 1L",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "leite integral 1l",
+   "img": "15906c94fdd66cb0.webp"
+  },
+  {
+   "nome": "LEITE SEMIDESNATADO",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "leite semidesnatado",
+   "img": "6de966db97a3c81b.webp"
+  },
+  {
+   "nome": "LEITE ZERO LACTOSE 1L",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "leite zero lactose 1l",
+   "img": "e7677c48a514b69f.webp"
+  },
+  {
+   "nome": "NESCAU ACHOCOLATADO NESTLE 350G",
+   "preco": 15.99,
+   "categoria": "Mercearia",
+   "nome_busca": "nescau achocolatado nestle 350g",
+   "img": "594b36aedccfee55.webp"
+  },
+  {
+   "nome": "DOCE DE LEITE MUMU 350G",
+   "preco": 15.89,
+   "categoria": "Mercearia",
+   "nome_busca": "doce de leite mumu 350g",
+   "img": "1fc9171c18e54e1a.webp"
+  },
+  {
+   "nome": "MACARRAO DONA BENTA ESPAGUETE 500G",
+   "preco": 4.99,
+   "categoria": "Mercearia",
+   "nome_busca": "macarrao dona benta espaguete 500g",
+   "img": "1e25ddbd315752de.webp"
+  },
+  {
+   "nome": "SPAGHETTI RENATA - 500G",
+   "preco": 4.98,
+   "categoria": "Mercearia",
+   "nome_busca": "spaghetti renata - 500g",
+   "img": "6490fabe96acb181.webp"
+  },
+  {
+   "nome": "MACARRAO RENATA PARAFUSO 500G",
+   "preco": 5.29,
+   "categoria": "Mercearia",
+   "nome_busca": "macarrao renata parafuso 500g",
+   "img": "54e6cde9ff86c206.webp"
+  },
+  {
+   "nome": "MASSA PENNE ORQUIDEA 500G",
+   "preco": 4.98,
+   "categoria": "Mercearia",
+   "nome_busca": "massa penne orquidea 500g",
+   "img": "ee631579e063f744.webp"
+  },
+  {
+   "nome": "CUP NOODLES CARNE DEFUMADA 69GR",
+   "preco": 7.99,
+   "categoria": "Mercearia",
+   "nome_busca": "cup noodles carne defumada 69gr",
+   "img": "f838d10914e78342.webp"
+  },
+  {
+   "nome": "CUP NOODLES GALINHA CAIPIRA 69GR",
+   "preco": 7.99,
+   "categoria": "Mercearia",
+   "nome_busca": "cup noodles galinha caipira 69gr",
+   "img": "b322abee86925350.webp"
+  },
+  {
+   "nome": "MIOJO NISSIN LAMEN CARNE 85GR",
+   "preco": 4.49,
+   "categoria": "Mercearia",
+   "nome_busca": "miojo nissin lamen carne 85gr",
+   "img": "ec6a8d0aa190b0a1.webp"
+  },
+  {
+   "nome": "MIOJO NISSIN LAMEN GALINHA CAIPIRA 85GR",
+   "preco": 4.49,
+   "categoria": "Mercearia",
+   "nome_busca": "miojo nissin lamen galinha caipira 85gr",
+   "img": "fb7e7d32bfa72b7b.webp"
+  },
+  {
+   "nome": "FAROFA YOKI COSTELINHA DEFUMADA 200G",
+   "preco": 10.9,
+   "categoria": "Mercearia",
+   "nome_busca": "farofa yoki costelinha defumada 200g",
+   "img": "f6241d6af2aaca59.webp"
+  },
+  {
+   "nome": "FAROFA YOKI TRADICIONAL 200G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "farofa yoki tradicional 200g",
+   "img": "73862f6240b3d8b8.webp"
+  },
+  {
+   "nome": "LINGUIÇA FININHA",
+   "preco": 9.99,
+   "categoria": "Mercearia",
+   "nome_busca": "linguica fininha",
+   "img": "63fd7463916b58ef.webp"
+  },
+  {
+   "nome": "GOMA DE TAPIOCA 500G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "goma de tapioca 500g",
+   "img": "d236d1b489220ea9.webp"
+  },
+  {
+   "nome": "MILHO PIPOCA YOKI 400G",
+   "preco": 5.49,
+   "categoria": "Mercearia",
+   "nome_busca": "milho pipoca yoki 400g",
+   "img": "1f9d94117e57faae.webp"
+  },
+  {
+   "nome": "PIPOCA MILHO",
+   "preco": 5.49,
+   "categoria": "Mercearia",
+   "nome_busca": "pipoca milho",
+   "img": "8d9d74d53d941d08.webp"
+  },
+  {
+   "nome": "PIPOCA MICRO YOKI MANTEIGA 100G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "pipoca micro yoki manteiga 100g",
+   "img": "14f47105e8748163.webp"
+  },
+  {
+   "nome": "PIPOCA MICRO YOKI MANTEIGA DE CINEMA 100G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "pipoca micro yoki manteiga de cinema 100g",
+   "img": "08dcaa8d324d5c16.webp"
+  },
+  {
+   "nome": "PIPOCA MICRO YOKI NATURAL 100G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "pipoca micro yoki natural 100g",
+   "img": "20aa08d29bf72d3a.webp"
+  },
+  {
+   "nome": "PIPOCA MICRO YOKI NATURAL COM SAL 100G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "pipoca micro yoki natural com sal 100g",
+   "img": "5629a2646caae248.webp"
+  },
+  {
+   "nome": "PIPOCA MICRO YOKI TEMPERADA 100G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "pipoca micro yoki temperada 100g",
+   "img": "36bf557357c675e7.webp"
+  },
+  {
+   "nome": "QUEIJO RALADO PARMESÃO",
+   "preco": 5.29,
+   "categoria": "Mercearia",
+   "nome_busca": "queijo ralado parmesao",
+   "img": "dfd69b765ce15499.webp"
+  },
+  {
+   "nome": "FERMENTO EM PO QUIMICO 100G",
+   "preco": 6.49,
+   "categoria": "Mercearia",
+   "nome_busca": "fermento em po quimico 100g",
+   "img": "59ad5d8db47b81b9.webp"
+  },
+  {
+   "nome": "FERMENTO EM PO QUIMICO DONA BENTA 100G",
+   "preco": 4.89,
+   "categoria": "Mercearia",
+   "nome_busca": "fermento em po quimico dona benta 100g",
+   "img": "6f70a2bbb3e5ecdc.webp"
+  },
+  {
+   "nome": "FERMENTO EM PO QUIMICO DR OETKER 100G",
+   "preco": 6.49,
+   "categoria": "Mercearia",
+   "nome_busca": "fermento em po quimico dr oetker 100g",
+   "img": "d7760b76cf99c96c.webp"
+  },
+  {
+   "nome": "FERMENTO FERMIX BIOLOGICO",
+   "preco": 1.99,
+   "categoria": "Mercearia",
+   "nome_busca": "fermento fermix biologico",
+   "img": "3b468b96d57e5507.webp"
+  },
+  {
+   "nome": "BATATA PALHA KISABOR 100G",
+   "preco": 8.49,
+   "categoria": "Mercearia",
+   "nome_busca": "batata palha kisabor 100g",
+   "img": "1ea0a3f2b70cf5b8.webp"
+  },
+  {
+   "nome": "BATATA PALHA KISABOR EXTRAFINA 100G",
+   "preco": 8.49,
+   "categoria": "Mercearia",
+   "nome_busca": "batata palha kisabor extrafina 100g",
+   "img": "19878f79ce493f07.webp"
+  },
+  {
+   "nome": "BATATA PALHA YOKI 105G",
+   "preco": 11.99,
+   "categoria": "Mercearia",
+   "nome_busca": "batata palha yoki 105g",
+   "img": "85453c28110e5c88.webp"
+  },
+  {
+   "nome": "BATATA PALHA YOKI EXTRA FINA 100G",
+   "preco": 11.99,
+   "categoria": "Mercearia",
+   "nome_busca": "batata palha yoki extra fina 100g",
+   "img": "82a9e771e209e151.webp"
+  },
+  {
+   "nome": "BATATA PALHA YOKI TRADICIONAL 70G",
+   "preco": 7.99,
+   "categoria": "Mercearia",
+   "nome_busca": "batata palha yoki tradicional 70g",
+   "img": "c5f4cff9f9788bc4.webp"
+  },
+  {
+   "nome": "ATUM RALADO EM ÓLEO",
+   "preco": 9.99,
+   "categoria": "Mercearia",
+   "nome_busca": "atum ralado em oleo",
+   "img": "2ea6714031257a9d.webp"
+  },
+  {
+   "nome": "MILHO VERDE LATA",
+   "preco": 4.99,
+   "categoria": "Mercearia",
+   "nome_busca": "milho verde lata",
+   "img": "40eaffb804e8ba94.webp"
+  },
+  {
+   "nome": "AZEITE OLIVA E VIR TERRANO 250ML",
+   "preco": 29.99,
+   "categoria": "Mercearia",
+   "nome_busca": "azeite oliva e vir terrano 250ml",
+   "img": "1d032fbc4992317c.webp"
+  },
+  {
+   "nome": "AZEITONA PRETA COM CAROCO 345G/200G",
+   "preco": 4.99,
+   "categoria": "Mercearia",
+   "nome_busca": "azeitona preta com caroco 345g/200g",
+   "img": "69ef922fc7700745.webp"
+  },
+  {
+   "nome": "AZEITONA VERDE SEM CAROCO 260G/100G",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "azeitona verde sem caroco 260g/100g",
+   "img": "6518f84f2c0a0b34.webp"
+  },
+  {
+   "nome": "SOPA VONO MILHO COM FRANGO",
+   "preco": 3.49,
+   "categoria": "Mercearia",
+   "nome_busca": "sopa vono milho com frango",
+   "img": "b615b92ac910b6a1.webp"
+  },
+  {
+   "nome": "ADOÇANTE ADOCYL 100ML",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "adocante adocyl 100ml",
+   "img": "3eecd6bf0f56d982.webp"
+  },
+  {
+   "nome": "CAFE FILTRO 102",
+   "preco": 5.89,
+   "categoria": "Mercearia",
+   "nome_busca": "cafe filtro 102",
+   "img": "0325d90d49ead227.webp"
+  },
+  {
+   "nome": "CAFE MELITTA 250G",
+   "preco": 24.99,
+   "categoria": "Mercearia",
+   "nome_busca": "cafe melitta 250g",
+   "img": "01ce85b95024e12e.webp"
+  },
+  {
+   "nome": "CAFE TRADICIONAL MOIDO 250G",
+   "preco": 22.9,
+   "categoria": "Mercearia",
+   "nome_busca": "cafe tradicional moido 250g",
+   "img": "578909b01885114c.webp"
+  },
+  {
+   "nome": "CAFE TRADICIONAL EXTRAFORTE MOIDO 250G",
+   "preco": 22.9,
+   "categoria": "Mercearia",
+   "nome_busca": "cafe tradicional extraforte moido 250g",
+   "img": "c3a81f88831f1d77.webp"
+  },
+  {
+   "nome": "CAFE SOLUVEL TRADICIONAL 40G",
+   "preco": 7.99,
+   "categoria": "Mercearia",
+   "nome_busca": "cafe soluvel tradicional 40g",
+   "img": "cc4e5220b1204724.webp"
+  },
+  {
+   "nome": "CHA DE CAMOMILA BARAO 10G",
+   "preco": 4.89,
+   "categoria": "Mercearia",
+   "nome_busca": "cha de camomila barao 10g",
+   "img": "43a3d769ccf95ce3.webp"
+  },
+  {
+   "nome": "ERVA MATE CHAS 500G",
+   "preco": 11.89,
+   "categoria": "Mercearia",
+   "nome_busca": "erva mate chas 500g",
+   "img": "eb50cf3efcc1c73e.webp"
+  },
+  {
+   "nome": "ERVA MATE TRADICIONAL 500G",
+   "preco": 11.89,
+   "categoria": "Mercearia",
+   "nome_busca": "erva mate tradicional 500g",
+   "img": "9873325b835475c0.webp"
+  },
+  {
+   "nome": "GELATINA CEREJA",
+   "preco": 3.29,
+   "categoria": "Mercearia",
+   "nome_busca": "gelatina cereja",
+   "img": "7cfe18acce45600c.webp"
+  },
+  {
+   "nome": "GELATINA MORANGO",
+   "preco": 3.29,
+   "categoria": "Mercearia",
+   "nome_busca": "gelatina morango",
+   "img": "09e0f05943f7ebb1.webp"
+  },
+  {
+   "nome": "GELATINA FINI BEIJOS",
+   "preco": 3.29,
+   "categoria": "Mercearia",
+   "nome_busca": "gelatina fini beijos",
+   "img": "fb7f157e2977971d.webp"
+  },
+  {
+   "nome": "GELATINA FINI DENTADURAS",
+   "preco": 3.29,
+   "categoria": "Mercearia",
+   "nome_busca": "gelatina fini dentaduras",
+   "img": "854a9bad3f14b630.webp"
+  },
+  {
+   "nome": "KETCHUP BONARE",
+   "preco": 3.49,
+   "categoria": "Mercearia",
+   "nome_busca": "ketchup bonare",
+   "img": "650bf16700ee370c.webp"
+  },
+  {
+   "nome": "KETCHUP KETDOG",
+   "preco": 4.49,
+   "categoria": "Mercearia",
+   "nome_busca": "ketchup ketdog",
+   "img": "2554c149f4b0b3de.webp"
+  },
+  {
+   "nome": "KETCHUP ODERICH 200G",
+   "preco": 7.49,
+   "categoria": "Mercearia",
+   "nome_busca": "ketchup oderich 200g",
+   "img": "209de963a48a0386.webp"
+  },
+  {
+   "nome": "KETCHUP TRADICIONAL HEMMER 320G",
+   "preco": 12.99,
+   "categoria": "Mercearia",
+   "nome_busca": "ketchup tradicional hemmer 320g",
+   "img": "1e51877c47df63cb.webp"
+  },
+  {
+   "nome": "MOSTARDA AMARELA ODERICH 190GR",
+   "preco": 6.89,
+   "categoria": "Mercearia",
+   "nome_busca": "mostarda amarela oderich 190gr",
+   "img": "60f7de66d1c03ffa.webp"
+  },
+  {
+   "nome": "MAIONESE HELLMANNS SACHE 200G",
+   "preco": 7.49,
+   "categoria": "Mercearia",
+   "nome_busca": "maionese hellmanns sache 200g",
+   "img": "30e8291a092899cf.webp"
+  },
+  {
+   "nome": "MAIONESE HEMMER SACHE 200G",
+   "preco": 6.49,
+   "categoria": "Mercearia",
+   "nome_busca": "maionese hemmer sache 200g",
+   "img": "4a55ec850146f56b.webp"
+  },
+  {
+   "nome": "MAIONESE LIZA SACHE 194ML",
+   "preco": 4.89,
+   "categoria": "Mercearia",
+   "nome_busca": "maionese liza sache 194ml",
+   "img": "4f72770d9b9482d2.webp"
+  },
+  {
+   "nome": "MOLHO DE TOMATE UN.",
+   "preco": 2.99,
+   "categoria": "Mercearia",
+   "nome_busca": "molho de tomate un.",
+   "img": "197c98eaf122b5f1.webp"
+  },
+  {
+   "nome": "MOLHO 4 QUEIJOS 200G",
+   "preco": 7.49,
+   "categoria": "Mercearia",
+   "nome_busca": "molho 4 queijos 200g",
+   "img": "0ff26c1bb956037d.webp"
+  },
+  {
+   "nome": "MOLHO SHOYU SUAVE 150ML",
+   "preco": 6.99,
+   "categoria": "Mercearia",
+   "nome_busca": "molho shoyu suave 150ml",
+   "img": "e64bd6347fc70464.webp"
+  },
+  {
+   "nome": "CALDO SAZON CARNE 32,5 GR",
+   "preco": 3.49,
+   "categoria": "Mercearia",
+   "nome_busca": "caldo sazon carne 32,5 gr",
+   "img": "942f73b817b3a1f8.webp"
+  },
+  {
+   "nome": "CALDO SAZON GALINHA 32,5GR",
+   "preco": 3.49,
+   "categoria": "Mercearia",
+   "nome_busca": "caldo sazon galinha 32,5gr",
+   "img": "825da993fc382686.webp"
+  },
+  {
+   "nome": "SABOR AMI S/ PIMENTA 300GR",
+   "preco": 7.49,
+   "categoria": "Mercearia",
+   "nome_busca": "sabor ami s/ pimenta 300gr",
+   "img": "daf1fe4168e7f6cf.webp"
+  },
+  {
+   "nome": "PAO DE FORMA FARIAS",
+   "preco": 11.89,
+   "categoria": "Padaria",
+   "nome_busca": "pao de forma farias",
+   "img": "8f4cc59e72aaee4b.webp"
+  },
+  {
+   "nome": "PAO DE FORMA TRADICIONAL PULLMAN",
+   "preco": 12.99,
+   "categoria": "Padaria",
+   "nome_busca": "pao de forma tradicional pullman",
+   "img": "faa31c5c2c42c0ee.webp"
+  },
+  {
+   "nome": "PAO DE HOT DOG BAUDUCCO 200G",
+   "preco": 10.99,
+   "categoria": "Padaria",
+   "nome_busca": "pao de hot dog bauducco 200g",
+   "img": "4671c52dca95e547.webp"
+  },
+  {
+   "nome": "TORRADA BAUDUCCO 142G",
+   "preco": 7.89,
+   "categoria": "Padaria",
+   "nome_busca": "torrada bauducco 142g",
+   "img": "7d985dcba523e7ee.webp"
+  },
+  {
+   "nome": "MAGIC TOAST ORIGINAL 110GR",
+   "preco": 8.49,
+   "categoria": "Padaria",
+   "nome_busca": "magic toast original 110gr",
+   "img": "19a234c8709df0d8.webp"
+  },
+  {
+   "nome": "MAGIC TOAST PEITO DE PERU 110GR",
+   "preco": 8.49,
+   "categoria": "Padaria",
+   "nome_busca": "magic toast peito de peru 110gr",
+   "img": "5c6b9e38e7da0412.webp"
+  },
+  {
+   "nome": "AREIA SANITARIA BAWWAW 4KG",
+   "preco": 16.89,
+   "categoria": "Pet",
+   "nome_busca": "areia sanitaria bawwaw 4kg",
+   "img": "3bff00083cd16528.webp"
+  },
+  {
+   "nome": "AREIA SANITARIA PARA GATO 4KG",
+   "preco": 16.89,
+   "categoria": "Pet",
+   "nome_busca": "areia sanitaria para gato 4kg",
+   "img": "d8049db0af0b3e13.webp"
+  },
+  {
+   "nome": "AREIA SANITARIA PARA GATO NEW DOTS 4KG",
+   "preco": 16.89,
+   "categoria": "Pet",
+   "nome_busca": "areia sanitaria para gato new dots 4kg",
+   "img": "e9e70cb5b9aa2ff7.webp"
+  },
+  {
+   "nome": "RACAO GATOS WHISKAS 900G",
+   "preco": 29.89,
+   "categoria": "Pet",
+   "nome_busca": "racao gatos whiskas 900g",
+   "img": null
+  },
+  {
+   "nome": "RACAO CACHORRO ADULTO PEDIGREE 900G",
+   "preco": 29.99,
+   "categoria": "Pet",
+   "nome_busca": "racao cachorro adulto pedigree 900g",
+   "img": null
+  },
+  {
+   "nome": "PETISCOS WHISKAS CARNE 85G",
+   "preco": 3.89,
+   "categoria": "Pet",
+   "nome_busca": "petiscos whiskas carne 85g",
+   "img": "6aaa44d0ddc3f1e7.webp"
+  },
+  {
+   "nome": "PETISCOS WHISKAS FRANGO 85G",
+   "preco": 3.89,
+   "categoria": "Pet",
+   "nome_busca": "petiscos whiskas frango 85g",
+   "img": "52d09d9727b7abac.webp"
+  },
+  {
+   "nome": "PETISCOS WHISKAS SALMAO 85G",
+   "preco": 3.89,
+   "categoria": "Pet",
+   "nome_busca": "petiscos whiskas salmao 85g",
+   "img": "ca8b269789208918.webp"
+  },
+  {
+   "nome": "SACHE PEDIGREE CARNE 100G",
+   "preco": 4.39,
+   "categoria": "Pet",
+   "nome_busca": "sache pedigree carne 100g",
+   "img": "3c5312c7eeb0fe4d.webp"
+  },
+  {
+   "nome": "SACHE PEDIGREE FRANGO 100G",
+   "preco": 4.39,
+   "categoria": "Pet",
+   "nome_busca": "sache pedigree frango 100g",
+   "img": "6fea3d5d684337e9.webp"
+  },
+  {
+   "nome": "PETISCO BIFINHO PETISCAO CARNE 60G",
+   "preco": 4.89,
+   "categoria": "Pet",
+   "nome_busca": "petisco bifinho petiscao carne 60g",
+   "img": "83d39ac0ca41b198.webp"
+  },
+  {
+   "nome": "PETISCO BIFINHO PETISCAO FRANGO 60G",
+   "preco": 4.89,
+   "categoria": "Pet",
+   "nome_busca": "petisco bifinho petiscao frango 60g",
+   "img": "b519aa2cdb867548.webp"
+  },
+  {
+   "nome": "PICOLE BOB ESPONJA",
+   "preco": 7.9,
+   "categoria": "Picole",
+   "nome_busca": "picole bob esponja",
+   "img": "6a74f838cf50d4ae.webp"
+  },
+  {
+   "nome": "PICOLE PATRICK",
+   "preco": 7.9,
+   "categoria": "Picole",
+   "nome_busca": "picole patrick",
+   "img": "a1d258bf25042594.webp"
+  },
+  {
+   "nome": "PICOLE KIDS UNICORNIO",
+   "preco": 7.9,
+   "categoria": "Picole",
+   "nome_busca": "picole kids unicornio",
+   "img": "541e29d86fdb2783.webp"
+  },
+  {
+   "nome": "PICOLE PICOLAPIS SURPRESA",
+   "preco": 2.99,
+   "categoria": "Picole",
+   "nome_busca": "picole picolapis surpresa",
+   "img": "186fab5491db0902.webp"
+  },
+  {
+   "nome": "PICOLE TURMA DA MONICA MORANGO COM CHANTILLY",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole turma da monica morango com chantilly",
+   "img": "6d92a7b76974b94c.webp"
+  },
+  {
+   "nome": "PICOLE TURMA DA MONICA TUTTI-FRUTTI COM CHAN",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole turma da monica tutti-frutti com chan",
+   "img": "d8899efe61e5fae6.webp"
+  },
+  {
+   "nome": "PICOLE TURMA DA MONICA MACA VERDE",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole turma da monica maca verde",
+   "img": null
+  },
+  {
+   "nome": "CONE SELETTO BRIGADEIRO",
+   "preco": 11.9,
+   "categoria": "Picole",
+   "nome_busca": "cone seletto brigadeiro",
+   "img": "7626f739e79f0c15.webp"
+  },
+  {
+   "nome": "CONE SELETTO CROCANTE",
+   "preco": 11.9,
+   "categoria": "Picole",
+   "nome_busca": "cone seletto crocante",
+   "img": "079d9b41c4a18f5b.webp"
+  },
+  {
+   "nome": "PICOLE DIAMOND COOKIES",
+   "preco": 10.9,
+   "categoria": "Picole",
+   "nome_busca": "picole diamond cookies",
+   "img": "6746a6f87e6ba9c1.webp"
+  },
+  {
+   "nome": "PICOLE DIAMOND COOKIES BRANCO",
+   "preco": 10.9,
+   "categoria": "Picole",
+   "nome_busca": "picole diamond cookies branco",
+   "img": "0c0e7e91cd9d18b5.webp"
+  },
+  {
+   "nome": "PICOLE DIAMOND PISTACHE",
+   "preco": 10.9,
+   "categoria": "Picole",
+   "nome_busca": "picole diamond pistache",
+   "img": "b17e75be4a5c2b90.webp"
+  },
+  {
+   "nome": "PICOLE BOMBOM NO PALITO BRIGADEIRO",
+   "preco": 9.9,
+   "categoria": "Picole",
+   "nome_busca": "picole bombom no palito brigadeiro",
+   "img": "e6400bd8d27c3278.webp"
+  },
+  {
+   "nome": "PICOLE BOMBOM NO PALITO SKIMO",
+   "preco": 9.9,
+   "categoria": "Picole",
+   "nome_busca": "picole bombom no palito skimo",
+   "img": "2e32948051831382.webp"
+  },
+  {
+   "nome": "PICOLE CHOCOTINE",
+   "preco": 9.9,
+   "categoria": "Picole",
+   "nome_busca": "picole chocotine",
+   "img": "e694d01a64d55be9.webp"
+  },
+  {
+   "nome": "PICOLE SUPER BARRITA",
+   "preco": 10.9,
+   "categoria": "Picole",
+   "nome_busca": "picole super barrita",
+   "img": "cbefef84a0f2c2bb.webp"
+  },
+  {
+   "nome": "PICOLE CREME CHOCOLATE",
+   "preco": 5.99,
+   "categoria": "Picole",
+   "nome_busca": "picole creme chocolate",
+   "img": "b053c2511d5d135e.webp"
+  },
+  {
+   "nome": "PICOLE CREME COCO BRANCO",
+   "preco": 5.49,
+   "categoria": "Picole",
+   "nome_busca": "picole creme coco branco",
+   "img": "49f8daecf360e1e3.webp"
+  },
+  {
+   "nome": "PICOLE CREME DOCE DE LEITE",
+   "preco": 5.49,
+   "categoria": "Picole",
+   "nome_busca": "picole creme doce de leite",
+   "img": "a0b68494ffc00833.webp"
+  },
+  {
+   "nome": "PICOLE CREME LEITE CONDENSADO",
+   "preco": 5.49,
+   "categoria": "Picole",
+   "nome_busca": "picole creme leite condensado",
+   "img": "5cda79656e0916d2.webp"
+  },
+  {
+   "nome": "PICOLE CREME MORANGO",
+   "preco": 5.49,
+   "categoria": "Picole",
+   "nome_busca": "picole creme morango",
+   "img": "f81b6dec08959782.webp"
+  },
+  {
+   "nome": "PICOLE FRUTA ABACAXI",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole fruta abacaxi",
+   "img": "f12f270d0d97c869.webp"
+  },
+  {
+   "nome": "PICOLE FRUTA LIMAO",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole fruta limao",
+   "img": "9a2a2017c8901e56.webp"
+  },
+  {
+   "nome": "PICOLE FRUTA MARACUJA",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole fruta maracuja",
+   "img": "ff21728b52d57837.webp"
+  },
+  {
+   "nome": "PICOLE FRUTA MORANGO",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole fruta morango",
+   "img": "bd38190d6ba7bb32.webp"
+  },
+  {
+   "nome": "PICOLE FRUTA UVA",
+   "preco": 3.99,
+   "categoria": "Picole",
+   "nome_busca": "picole fruta uva",
+   "img": "9e61d29dd25499cb.webp"
+  },
+  {
+   "nome": "PICOLE MEX. MORANGO C LEITE COND",
+   "preco": 12.9,
+   "categoria": "Picole",
+   "nome_busca": "picole mex. morango c leite cond",
+   "img": "ca23390ccde4ac28.webp"
+  },
+  {
+   "nome": "PICOLE MEX. RECH. MARACUJA C LEITE COND",
+   "preco": 12.9,
+   "categoria": "Picole",
+   "nome_busca": "picole mex. rech. maracuja c leite cond",
+   "img": "c42563d1288ccf66.webp"
+  },
+  {
+   "nome": "BALA FINI MARSH. RECH ROSA/BRANCO 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini marsh. rech rosa/branco 80g",
+   "img": null
+  },
+  {
+   "nome": "BALA FINI MINI TUBES TWISTER 15G",
+   "preco": 2.49,
+   "categoria": "Bala Fini",
+   "nome_busca": "bala fini mini tubes twister 15g",
+   "img": null
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE HERSHEY'S AO LEITE",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate hershey's ao leite",
+   "img": null
+  },
+  {
+   "nome": "BARRA DE CHOCOLATE LACTA LAKA OREO",
+   "preco": 11.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "barra de chocolate lacta laka oreo",
+   "img": "0d81e6a5c9101c0f.webp"
+  },
+  {
+   "nome": "BEBIDA MONSTER STRAW DREAMS LATAO 473ML",
+   "preco": 13.99,
+   "categoria": "Bebidas Nao Alcoolicas",
+   "nome_busca": "bebida monster straw dreams latao 473ml",
+   "img": null
+  },
+  {
+   "nome": "BIFINHO PETISCAO BACON 60G",
+   "preco": 4.99,
+   "categoria": "Pet",
+   "nome_busca": "bifinho petiscao bacon 60g",
+   "img": null
+  },
+  {
+   "nome": "BIFINHO PETISCAO FRUTA 60G",
+   "preco": 4.99,
+   "categoria": "Pet",
+   "nome_busca": "bifinho petiscao fruta 60g",
+   "img": null
+  },
+  {
+   "nome": "CHEETOS LUA 40G",
+   "preco": 6.49,
+   "categoria": "Salgadinhos",
+   "nome_busca": "cheetos lua 40g",
+   "img": null
+  },
+  {
+   "nome": "CHEETOS REQUEIJAO 40G",
+   "preco": 5.99,
+   "categoria": "Salgadinhos",
+   "nome_busca": "cheetos requeijao 40g",
+   "img": null
+  },
+  {
+   "nome": "CHICLETE FINI SALADA FRUTAS 80G",
+   "preco": 8.99,
+   "categoria": "Bala Fini",
+   "nome_busca": "chiclete fini salada frutas 80g",
+   "img": null
+  },
+  {
+   "nome": "CHOCOLATE KITKAT DARK 41.5G",
+   "preco": 5.99,
+   "categoria": "Bomboniere",
+   "nome_busca": "chocolate kitkat dark 41.5g",
+   "img": null
+  },
+  {
+   "nome": "CREME DENTAL SORRISO",
+   "preco": 5.99,
+   "categoria": "Higiene Pessoal",
+   "nome_busca": "creme dental sorriso",
+   "img": null
+  },
+  {
+   "nome": "FAROFA PRONTA KISABOR",
+   "preco": 9.89,
+   "categoria": "Mercearia",
+   "nome_busca": "farofa pronta kisabor",
+   "img": null
+  },
+  {
+   "nome": "FOSFORO LONGO",
+   "preco": 5.99,
+   "categoria": "Bazar",
+   "nome_busca": "fosforo longo",
+   "img": null
+  },
+  {
+   "nome": "LENTILHA 400G",
+   "preco": 11.49,
+   "categoria": "Mercearia",
+   "nome_busca": "lentilha 400g",
+   "img": null
+  },
+  {
+   "nome": "LIMPEZA PERFUMADO LIMPOL BLUE FLOWERS",
+   "preco": 7.99,
+   "categoria": "Limpeza",
+   "nome_busca": "limpeza perfumado limpol blue flowers",
+   "img": null
+  },
+  {
+   "nome": "LIMPEZA PERFUMADO LIMPOL LUXURY",
+   "preco": 7.99,
+   "categoria": "Limpeza",
+   "nome_busca": "limpeza perfumado limpol luxury",
+   "img": null
+  },
+  {
+   "nome": "PAO DE QUEIJO 500G",
+   "preco": 18.9,
+   "categoria": "Congelados",
+   "nome_busca": "pao de queijo 500g",
+   "img": null
+  },
+  {
+   "nome": "PIPOCA MICRO YOKI (ESPECIAL) COB. MANTEIGA 105G",
+   "preco": 13.9,
+   "categoria": "Mercearia",
+   "nome_busca": "pipoca micro yoki (especial) cob. manteiga 105g",
+   "img": null
+  },
+  {
+   "nome": "PIZZA SEARA 4 QUEIJOS",
+   "preco": 24.9,
+   "categoria": "Pizzas",
+   "nome_busca": "pizza seara 4 queijos",
+   "img": null
+  }
+ ]
+}
