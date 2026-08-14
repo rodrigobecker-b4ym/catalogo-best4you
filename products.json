@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T03:50:47-03:00",
+ "gerado_em": "2026-08-14T10:25:28-03:00",
  "escopo_preco": "global",
  "produtos": [
   {
@@ -953,13 +953,6 @@
    "categoria": "Bomboniere",
    "nome_busca": "barra de chocolate lacta laka caramelo recheados 104g",
    "img": "09697612f4f602ab.webp"
-  },
-  {
-   "nome": "BARRA DE CHOCOLATE LACTA OREO 80G (REGISTRO ANTIGO)",
-   "preco": 11.99,
-   "categoria": "Bomboniere",
-   "nome_busca": "barra de chocolate lacta oreo 80g (registro antigo)",
-   "img": null
   },
   {
    "nome": "BARRA DE CHOCOLATE LACTA OREO RECHEADOS 90G",
@@ -2965,7 +2958,7 @@
   },
   {
    "nome": "MAIONESE HEMMER SACHE 200G",
-   "preco": 6.49,
+   "preco": 6.89,
    "categoria": "Mercearia",
    "nome_busca": "maionese hemmer sache 200g",
    "img": "4a55ec850146f56b.webp"
